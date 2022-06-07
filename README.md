@@ -16,6 +16,6 @@ This is WRO2022 Future Engineers comtetion's Note.
     7. Camera:               OV5647 Raspberry Pi Camera
   
 
- ● Software
+ * Software
 
   The car uses [Donkey Car](https://www.donkeycar.com/) doing Self Driving Car Platform. [Donkey Car](https://www.donkeycar.com/)  is a high level self driving library written in [Python](https://www.python.org/). It is an Open Source Hardware design that makes it easy for you to build your own car. And use Raspberry Pi control the car to start driveing. The code are in `src` Folder.
