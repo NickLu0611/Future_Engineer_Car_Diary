@@ -65,7 +65,7 @@ This is WRO2022 Future Engineers comtetion's Note.
   
   工作內容: 
       今天我們把硬體都裝好了，接下來要準備設定軟體，我們選擇了Donkey Car，因為它是一個開源的軟體，有詳細的教學，而且也剛好符合我們的需求。
-      https://imgur.com/9c5atCw
+      ![IMG_5362](https://user-images.githubusercontent.com/74124750/173970839-211c1968-0a9b-4ef1-9981-bc019f3c5eaf.jpg)
     
   ----------
   Date: 2022/05/28(Sat)  04:00 p.m. 
