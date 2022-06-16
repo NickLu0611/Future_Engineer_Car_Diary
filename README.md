@@ -38,7 +38,9 @@ This is WRO2022 Future Engineers comtetion's Note.
     
   ----------
   Date: 2022/06/07(Tue)  03:50 p.m. 
+  
   Member: LU-CHENG YU
+  
   Content: 
     Today, the car can drive with game controller. Then we just need Adjustment some value, train a model, the car should be drive self.
     
