@@ -23,10 +23,12 @@ This is WRO2022 Future Engineers comtetion's Note.
 # Diary
   Update in 2022/06/06 9:13 a.m.
   
+  
   Date: 2022/06/07(Tue)  03:50 p.m. 
   Member: LU-CHENG YU
   Content: 
     Today, the car can drive with game controller. Then we just need Adjustment some value, train a model, the car should be drive self.
+    
   紀錄時間: 2022/06/07(星期一)  03:50 p.m. 
   活動成員: 呂承諭
   工作內容: 
@@ -36,6 +38,7 @@ This is WRO2022 Future Engineers comtetion's Note.
   Member: LU-CHENG YU
   Content: 
     Today, we set the hardware done, so now we're going setting software, we choose Donkey Car, because it is opensource code, it have detailed tutorial and it matched   for our needs.
+    
   紀錄時間: 2022/05/30(星期一)  02:25 p.m. 
   活動成員: 呂承諭
   工作內容: 
@@ -45,6 +48,7 @@ This is WRO2022 Future Engineers comtetion's Note.
   Member: LU-CHENG YU
   Content: 
     Today, we design the car's shape done. now we're going put the hardware in, and setting software, let car drive, the car will be done. 
+    
   紀錄時間: 2022/05/30(星期六)  02:25 p.m. 
   活動成員: 呂承諭
   工作內容: 
