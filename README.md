@@ -12,7 +12,7 @@ This is WRO2022 Future Engineers comtetion's Note.
     2. Wheel(Rear):          Lego 43.2x14 wheel  x2
     4. controller:           Raspberry Pi 4B 8GB
     5. transmission:         1:34 Motor with plastic differential
-    6. Steering mechanism:   Servo motor with LEGO Liftarm Thick(1*11)
+    6. Steering mechanism:   Servo motor with LEGO Liftarm Thick(1*11), PCA9685
     7. Camera:               OV5647 Raspberry Pi Camera
   
 
