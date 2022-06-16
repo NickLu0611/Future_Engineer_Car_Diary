@@ -24,6 +24,13 @@ This is WRO2022 Future Engineers comtetion's Note.
   Update in 2022/06/06 9:13 a.m.
   
   ----------
+  Date: 2022/06/08(Wed)  02:53 p.m. 
+  Member: LU-CHENG YU
+  Content: 
+    Today, we found a problem. the car's steering mechanism is unstable, we found it was caused by the voltage problem of the raspberry pi, so we use PCA9685 Control     Board to connect Servo motor and raspberry pi. The PCA9685 does not provide a 3.3v voltage like the raspberry pi, but independently supplies a 5V voltage to ensure     that the servo motor can work normally and stably.
+    今天，我們發現了一個問題。汽車的轉向機構不穩定，我們發現是樹莓派的電壓問題，所以我們使用PCA9685控制板連接伺服電機和樹莓派。 PCA9685不像樹莓派那樣提供3.3v電壓，而是獨立提供5V電     壓，保證伺服電機正常穩定工作。
+  
+  ----------
   Date: 2022/06/07(Tue)  03:50 p.m. 
   Member: LU-CHENG YU
   Content: 
