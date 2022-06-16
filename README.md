@@ -54,6 +54,9 @@ This is WRO2022 Future Engineers comtetion's Note.
   
   工作內容: 
       今天，我們發現了一個問題。汽車的轉向機構不穩定，我們發現是樹莓派的電壓問題，所以我們使用PCA9685控制板連接伺服電機和樹莓派。 PCA9685不像樹莓派那樣提供3.3v電壓，而是獨立提供5V電   壓，保證伺服電機正常穩定工作。
+     ![IMG-5424](https://user-images.githubusercontent.com/74124750/173972904-891cb435-5bd0-48fd-9ce9-ac12c7344823.jpg)
+ ![IMG-5425](https://user-images.githubusercontent.com/74124750/173972927-e116a1d2-66fd-4436-b1f1-8f15775d2779.jpg)
+
     
   ----------
   Date: 2022/06/07(Tue)  03:50 p.m. 
