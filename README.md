@@ -28,13 +28,16 @@ This is WRO2022 Future Engineers comtetion's Note.
   
   Content: 
     Today, we found a problem again. the motor's fixed mount are broke, we need to find a better solution. we redesign car's chassis, modified the design many times.   finally, the chassis was done, it can very strong to fixed the motor, and chassis width reduced by 13%, we think this is very proud moment.
-    
+
   紀錄時間: 2022/06/09(星期四)  06:13 p.m. 
   
   活動成員: 呂承諭
   
   工作內容: 
-    今天，我們又發現了一個問題。電機的固定架壞了，我們需要尋找一個更好的解決方案。我們重新設計了汽車的底盤，多次修改設計。終於，底盤做好了，可以很結實的固定電機，底盤的寬度也減少了13%，我們覺   得這是一個非常自豪的時刻。
+    今天，我們又發現了一個問題。電機的固定架壞了，我們需要尋找一個更好的解決方案。我們重新設計了汽車的底盤，多次修改設計。終於，底盤做好了，可以很結實的固定電機，底盤的寬度也減少了     13%，我們覺得這是一個非常自豪的時刻。
+    ![IMG-5388](https://user-images.githubusercontent.com/74124750/173972550-71e8f2ff-b3f9-4f7c-8bd5-9ae7a269e3f1.jpg)
+    ![IMG-5387](https://user-images.githubusercontent.com/74124750/173972590-9295acfd-3511-4c96-a83c-77a46a7d8ead.jpg)
+    ![IMG-5390](https://user-images.githubusercontent.com/74124750/173972594-11e10553-e7fc-488b-b24f-ba19123d4b1d.jpg)
 
   ----------
   Date: 2022/06/08(Wed)  02:53 p.m. 
