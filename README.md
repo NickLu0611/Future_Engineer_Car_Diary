@@ -35,9 +35,10 @@ This is WRO2022 Future Engineers comtetion's Note.
   
   工作內容: 
     今天，我們又發現了一個問題。電機的固定架壞了，我們需要尋找一個更好的解決方案。我們重新設計了汽車的底盤，多次修改設計。終於，底盤做好了，可以很結實的固定電機，底盤的寬度也減少了     13%，我們覺得這是一個非常自豪的時刻。
-    ![IMG-5388](https://user-images.githubusercontent.com/74124750/173972550-71e8f2ff-b3f9-4f7c-8bd5-9ae7a269e3f1.jpg)
-    ![IMG-5387](https://user-images.githubusercontent.com/74124750/173972590-9295acfd-3511-4c96-a83c-77a46a7d8ead.jpg)
-    ![IMG-5390](https://user-images.githubusercontent.com/74124750/173972594-11e10553-e7fc-488b-b24f-ba19123d4b1d.jpg)
+  ![IMG-5388 (2)](https://user-images.githubusercontent.com/74124750/173972789-331f9513-972e-4535-8c33-0f8a04b3ebf2.jpg)
+  ![IMG-5387 (2)](https://user-images.githubusercontent.com/74124750/173972801-418694fb-034c-41c8-a7c3-cdd9fcb9ac72.jpg)
+  ![IMG-5390 (2)](https://user-images.githubusercontent.com/74124750/173972809-647a51e6-f07b-4aae-87a1-40be9271bbcd.jpg)
+
 
   ----------
   Date: 2022/06/08(Wed)  02:53 p.m. 
