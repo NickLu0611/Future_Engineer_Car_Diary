@@ -72,6 +72,8 @@ This is WRO2022 Future Engineers comtetion's Note.
   
   工作內容: 
       今天車子已經可以透過遊戲搖桿控制了，接下來需要調整一些數值，然後開始訓練駕駛模型，之後汽車就可以自動駕駛了。
+      ![IMG-5364](https://user-images.githubusercontent.com/74124750/173973037-9f2f6784-0326-44f7-a8cc-f0c6ddc3248b.jpg)
+
     
   ----------
   Date: 2022/05/30(Mon)  02:25 p.m. 
