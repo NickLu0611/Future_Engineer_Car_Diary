@@ -27,14 +27,14 @@ This is WRO2022 Future Engineers comtetion's Note.
   Member: LU-CHENG YU
   
   Content: 
-    Today, we found a problem again. the motor's fixed mount are broke, we need to find a better solution. we redesign car's chassis, modified the design many times.   finally, the chassis was done, it can very strong to fixed the motor, and width reduced by 13%, we think this is very proud moment.
+    Today, we found a problem again. the motor's fixed mount are broke, we need to find a better solution. we redesign car's chassis, modified the design many times.   finally, the chassis was done, it can very strong to fixed the motor, and chassis width reduced by 13%, we think this is very proud moment.
     
   紀錄時間: 2022/06/09(星期四)  06:13 p.m. 
   
   活動成員: 呂承諭
   
   工作內容: 
-    今天，我們又發現了一個問題。電機的固定架壞了，我們需要尋找一個更好的解決方案。我們重新設計了汽車的底盤，多次修改設計。終於，底盤做好了，可以很結實的固定電機，寬度減少了13%，我們覺   得這是一個非常自豪的時刻。
+    今天，我們又發現了一個問題。電機的固定架壞了，我們需要尋找一個更好的解決方案。我們重新設計了汽車的底盤，多次修改設計。終於，底盤做好了，可以很結實的固定電機，底盤的寬度也減少了13%，我們覺   得這是一個非常自豪的時刻。
 
   ----------
   Date: 2022/06/08(Wed)  02:53 p.m. 
