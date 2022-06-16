@@ -4,7 +4,7 @@ This is WRO2022 Future Engineers comtetion's Note.
 # Introduction
 
  * Hardware
-  The car uses [Onshape](https://www.onshape.com/en/) design car's shape, then use Laser cutting machine cut the planks, planks with hexagonal column doing compartment, put hardware in compartment.
+  The car uses [Onshape](https://www.onshape.com/en/) design car's shape, then use Laser cutting machine cut the planks, planks with hexagonal column doing compartment, put hardware in compartment. the drawings in `src`
   
   Hardware have:
   
