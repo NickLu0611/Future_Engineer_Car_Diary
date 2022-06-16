@@ -29,7 +29,7 @@ This is WRO2022 Future Engineers comtetion's Note.
   Content: 
     Today, we found a problem. the car's steering mechanism is unstable, we found it was caused by the voltage problem of the raspberry pi, so we use PCA9685 Control     Board to connect Servo motor and raspberry pi. The PCA9685 does not provide a 3.3v voltage like the raspberry pi, but independently supplies a 5V voltage to ensure     that the servo motor can work normally and stably.
     
-  紀錄時間: 2022/06/08(星期一)  02:53 p.m. 
+  紀錄時間: 2022/06/08(星期三)  02:53 p.m. 
   活動成員: 呂承諭
   工作內容: 
       今天，我們發現了一個問題。汽車的轉向機構不穩定，我們發現是樹莓派的電壓問題，所以我們使用PCA9685控制板連接伺服電機和樹莓派。 PCA9685不像樹莓派那樣提供3.3v電壓，而是獨立提供5V電   壓，保證伺服電機正常穩定工作。
@@ -40,7 +40,7 @@ This is WRO2022 Future Engineers comtetion's Note.
   Content: 
     Today, the car can drive with game controller. Then we just need Adjustment some value, train a model, the car should be drive self.
     
-  紀錄時間: 2022/06/07(星期一)  03:50 p.m. 
+  紀錄時間: 2022/06/07(星期二)  03:50 p.m. 
   活動成員: 呂承諭
   工作內容: 
       今天車子已經可以透過遊戲搖桿控制了，接下來需要調整一些數值，然後開始訓練駕駛模型，之後汽車就可以自動駕駛了。
