@@ -21,6 +21,14 @@ This is WRO2022 Future Engineers comtetion's Note.
   The car uses [Donkey Car](https://www.donkeycar.com/) doing Self Driving Car Platform. [Donkey Car](https://www.donkeycar.com/)  is a high level self driving library written in [Python](https://www.python.org/). It is an Open Source Hardware design that makes it easy for you to build your own car. And use Raspberry Pi control the car to start driving. The code are in `src` Folder.
   
 # Diary
+-------
+Date: 2022/06/23 (Thu) 8:11 p.m.
+
+Member: LU-CHENG YU , HU-YUN RUI
+
+Content: 
+
+-------
 
 Date : 2022/06/22 (Wed) 1:52 p.m.
 
@@ -40,7 +48,7 @@ Content:
 -------
 Date: 2022/06/21 (Tue) 8:11 p.m.
 
-member: LU-CHENG YU , HU-YUN RUI
+Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
 
@@ -52,7 +60,7 @@ Content:
 -------
 Date: 2022/06/20 (Mon) 5:19 p.m.
 
-member: LU-CHENG YU , HU-YUN RUI
+Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
 
@@ -65,7 +73,7 @@ Content:
 
 Date: 2022/06/18 (Sat) 4:28 p.m.
 
-member: LU-CHENG YU , HU-YUN RUI
+Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
 
@@ -77,7 +85,7 @@ Content:
 -------
 Date: 2022/06/17 (Fri) 3:57 p.m.
 
-member: LU-CHENG YU , HU-YUN RUI
+Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
 
@@ -87,9 +95,9 @@ Content:
 
 
 -------
-Date: 2022/06/16 (Thu) 7:41 p.m.
+Date: 2022/06/16 (Thur) 7:41 p.m.
 
-member: LU-CHENG YU, HU-YUN RUI
+Member: LU-CHENG YU, HU-YUN RUI
 
 Content: 
 
@@ -99,7 +107,7 @@ Content:
 --------
 Date: 2022/06/14 (Tue) 2:29 p.m
 
-member: LU-CHENG YU
+Member: LU-CHENG YU
 
 Content: 
 
@@ -110,7 +118,7 @@ Content:
 --------
 Date: 2022/06/12 (Sun) 6:37 p.m.
 
-member: LU-CHENG YU
+Member: LU-CHENG YU
 
 Content: 
 
@@ -119,7 +127,7 @@ Content:
 --------
 Date: 2022/06/11 (Sat) 4:18 p.m.
 
-member: LU-CHENG YU
+Member: LU-CHENG YU
 
 Content: 
 
@@ -199,14 +207,14 @@ Content:
       ![IMG_5361](https://user-images.githubusercontent.com/74124750/173970905-e8be7777-8c8b-443b-864f-5a46e639d602.jpg)
 
   ----------
-  Date: 2022/05/28(Sat)  04:00 p.m. 
+  Date: 2022/05/28(Sat)  02:25 p.m. 
   
   Member: LU-CHENG YU
   
   Content: 
     Today, we design the car's shape done. now we're going put the hardware in, and setting software, let car drive, the car will be done. 
     
-  紀錄時間: 2022/05/30(星期六)  02:25 p.m. 
+  紀錄時間: 2022/05/28(星期六)  02:25 p.m. 
   
   活動成員: 呂承諭
   
