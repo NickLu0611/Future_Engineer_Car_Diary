@@ -35,6 +35,7 @@ Content:
 
 內容：
     今天我們發現 donkey car 的官網更新了，之前我們使用的是 Linux 系統，而現在新增了 Windows 系統，我們對其進行嘗試，或許對於我們來說 windows 可以更熟悉、上手。
+![R](https://user-images.githubusercontent.com/74124750/174947269-32b844bd-e5ea-4833-af6e-6c1b487fbae6.jpg)
 
 -------
 Date: 2022/06/21 (Tue) 8:11 p.m.
