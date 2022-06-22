@@ -28,17 +28,14 @@ Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
     Today we found out that the official website of donkey car has been updated. We used Linux system before, but now Windows system is added.Perhaps for us, the           windows system can be more familiar and easy to use.
-    
-
+     ![1](https://user-images.githubusercontent.com/107915065/174947403-794c4749-618e-499f-a587-691f4d45832a.png)
+   
 日期：2022/06/22（星期三）下午 1:52
 
 成員: 呂承諭、胡允瑞
 
 內容：
-    今天我們發現 donkey car 的官網更新了，之前我們使用的是 Linux 系統，而現在新增了 Windows 系統，我們對其進行嘗試，或許對於我們來說 windows 可以更熟悉、上手。
- ![1](https://user-images.githubusercontent.com/107915065/174947403-794c4749-618e-499f-a587-691f4d45832a.png)
-   
-    
+    今天我們發現 donkey car 的官網更新了，之前我們使用的是 Linux 系統，而現在新增了 Windows 系統，我們開始對其進行嘗試，或許對於我們來說 windows 會更熟悉，也更好上手。
 
 -------
 Date: 2022/06/21 (Tue) 8:11 p.m.
@@ -96,13 +93,6 @@ member: LU-CHENG YU, HU-YUN RUI
 
 Content: 
 
-
--------
-Date: 2022/06/15 (Wed) 3:11 p.m.
-
-member: LU-CHENG YU
-
-Content: 
 
 
 
@@ -221,5 +211,5 @@ Content:
   活動成員: 呂承諭
   
   工作內容: 
-    今天我們把我們設計好了車子的外型，接下來我們要選擇硬體，然後裝到車上，以及選擇、設定軟體，讓車子動起來，車子就大致上完成了
+    今天我們設計好了車子的外型，接下來我們要選擇硬體，然後裝到車上，以及選擇、設定軟體，讓車子動起來，車子就大致上完成了
      
