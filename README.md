@@ -35,7 +35,7 @@ Content:
 
 內容：
     今天我們發現 donkey car 的官網更新了，之前我們使用的是 Linux 系統，而現在新增了 Windows 系統，我們對其進行嘗試，或許對於我們來說 windows 可以更熟悉、上手。
-    ![image](https://github.com/NickLu0611/Future_Engineer_Car_Diary/commit/449264e9453d134978456ad01c3d1693ef75451b)
+    ![image]([https://github.com/NickLu0611/Future_Engineer_Car_Diary/commit/449264e9453d134978456ad01c3d1693ef75451b](https://github.com/NickLu0611/Future_Engineer_Car_Diary/commit/449264e9453d134978456ad01c3d1693ef75451b#diff-d192c01710d23ce9e3c710467a933714c5643dc81b7ad44725ec5d818b15ae90)
 
 -------
 Date: 2022/06/21 (Tue) 8:11 p.m.
