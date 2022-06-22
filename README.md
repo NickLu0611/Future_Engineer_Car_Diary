@@ -21,22 +21,16 @@ This is WRO2022 Future Engineers comtetion's Note.
   The car uses [Donkey Car](https://www.donkeycar.com/) doing Self Driving Car Platform. [Donkey Car](https://www.donkeycar.com/)  is a high level self driving library written in [Python](https://www.python.org/). It is an Open Source Hardware design that makes it easy for you to build your own car. And use Raspberry Pi control the car to start driving. The code are in `src` Folder.
   
 # Diary
+
 record time : 2022/06/22 (Wed) 1:52 p.m.
-
 member: LU-CHENG YU , HU-YUN RUI
-
 Content: 
+Today we found out that the official website of donkey car has been updated. We used Linux system before, but now Windows system is added.Perhaps for us, the windows system can be more familiar and easy to use.
 
 日期：2022/06/22（星期三）下午 1:52
-
 成員: 呂承諭、胡允瑞
-
-內容：今天我們發現 donkey car 的官網更新了，原本我們是使用 Linux 系統，現在新增了 Windows 系統，我們對其進行嘗試，或許對於我們來說 windows 可以更熟悉、上手。
-
-
-
-
-
+內容：
+今天我們發現 donkey car 的官網更新了，之前我們使用的是 Linux 系統，而現在新增了 Windows 系統，我們對其進行嘗試，或許對於我們來說 windows 可以更熟悉、上手。
 
 -------
 Date: 2022/06/21 (Tue) 8:11 p.m.
