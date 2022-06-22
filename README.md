@@ -21,7 +21,121 @@ This is WRO2022 Future Engineers comtetion's Note.
   The car uses [Donkey Car](https://www.donkeycar.com/) doing Self Driving Car Platform. [Donkey Car](https://www.donkeycar.com/)  is a high level self driving library written in [Python](https://www.python.org/). It is an Open Source Hardware design that makes it easy for you to build your own car. And use Raspberry Pi control the car to start driving. The code are in `src` Folder.
   
 # Diary
+record time : 2022/06/22 (Wed) 1:52 p.m.
 
+member: LU-CHENG YU , HU-YUN RUI
+
+Content: 
+
+日期：2022/06/22（星期三）下午 1:52
+
+成員: 呂承諭、胡允瑞
+
+內容：今天我們發現 donkey car 的官網更新了，原本我們是使用 Linux 系統，現在新增了 Windows 系統，我們對其進行嘗試，或許對於我們來說 windows 可以更熟悉、上手。
+
+
+
+
+
+
+-------
+Date: 2022/06/21 (Tue) 8:11 p.m.
+
+member: LU-CHENG YU , HU-YUN RUI
+
+Content: 
+
+
+
+
+
+
+-------
+Date: 2022/06/20 (Mon) 5:19 p.m.
+
+member: LU-CHENG YU , HU-YUN RUI
+
+Content: 
+
+
+
+
+
+
+-------
+
+Date: 2022/06/18 (Sat) 4:28 p.m.
+
+member: LU-CHENG YU , HU-YUN RUI
+
+Content: 
+
+
+
+
+
+
+-------
+Date: 2022/06/17 (Fri) 3:57 p.m.
+
+member: LU-CHENG YU , HU-YUN RUI
+
+Content: 
+
+
+
+
+
+
+-------
+Date: 2022/06/16 (Thu) 7:41 p.m.
+
+member: LU-CHENG YU, HU-YUN RUI
+
+Content: 
+
+
+-------
+Date: 2022/06/15 (Wed) 3:11 p.m.
+
+member: LU-CHENG YU
+
+Content: 
+
+
+
+--------
+Date: 2022/06/14 (Tue) 2:29 p.m
+
+member: LU-CHENG YU
+
+Content: 
+
+
+
+
+
+--------
+Date: 2022/06/12 (Sun) 6:37 p.m.
+
+member: LU-CHENG YU
+
+Content: 
+
+
+
+--------
+Date: 2022/06/11 (Sat) 4:18 p.m.
+
+member: LU-CHENG YU
+
+Content: 
+
+
+
+
+
+ --------
   Date: 2022/06/09(Thu)  06:13 p.m. 
   
   Member: LU-CHENG YU
@@ -105,8 +219,5 @@ This is WRO2022 Future Engineers comtetion's Note.
   活動成員: 呂承諭
   
   工作內容: 
-    今天我們把我們設計好了車子的外型，接下來我們要選擇硬體，然後裝到車上，以及選擇、設定軟體，讓車子動起來，車子就大致上完成了。
-
-  
+    今天我們把我們設計好了車子的外型，接下來我們要選擇硬體，然後裝到車上，以及選擇、設定軟體，讓車子動起來，車子就大致上完成了
      
-
