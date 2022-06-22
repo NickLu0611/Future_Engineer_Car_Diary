@@ -22,7 +22,7 @@ This is WRO2022 Future Engineers comtetion's Note.
   
 # Diary
 -------
-Date: 2022/06/23 (Thu) 8:11 p.m.
+Date: 2022/06/23 (Thu) 6:53 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
 
@@ -52,6 +52,12 @@ Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
 
+日期：2022/06/21（週二）下午 8:11
+
+成員：呂承諭、胡允瑞
+
+內容：
+
 
 
 
@@ -64,7 +70,11 @@ Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
 
+日期：2022/06/20 （週一）下午 5:19
 
+成員：呂承諭、胡允瑞
+
+內容：
 
 
 
@@ -78,7 +88,11 @@ Member: LU-CHENG YU , HU-YUN RUI
 Content: 
 
 
+日期：2022/06/18（週六）下午 4:28
 
+成員：呂承諭、胡允瑞
+
+內容：
 
 
 
@@ -90,19 +104,27 @@ Member: LU-CHENG YU , HU-YUN RUI
 Content: 
 
 
+日期：2022/06/17（週五）下午 3:57
 
+成員：呂承諭、胡允瑞
+
+內容：
 
 
 
 -------
-Date: 2022/06/16 (Thur) 7:41 p.m.
+Date: 2022/06/16 (Thu) 7:41 p.m.
 
 Member: LU-CHENG YU, HU-YUN RUI
 
 Content: 
 
 
+日期：2022/06/16（週四）下午 7:41
 
+成員：呂承諭、胡允瑞
+
+內容：
 
 --------
 Date: 2022/06/14 (Tue) 2:29 p.m
@@ -112,7 +134,11 @@ Member: LU-CHENG YU
 Content: 
 
 
+日期：2022/06/14（週二）下午 2:29
 
+成員：呂承諭
+
+內容：
 
 
 --------
@@ -122,7 +148,11 @@ Member: LU-CHENG YU
 
 Content: 
 
+日期：2022/06/12（週日）下午 6:37 
 
+成員：呂承諭
+
+內容：
 
 --------
 Date: 2022/06/11 (Sat) 4:18 p.m.
@@ -133,7 +163,11 @@ Content:
 
 
 
+日期：2022/06/11（週六）下午 4:18
 
+成員:呂承諭
+
+內容：
 
  --------
   Date: 2022/06/09(Thu)  06:13 p.m. 
