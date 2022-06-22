@@ -27,7 +27,6 @@ record time : 2022/06/22 (Wed) 1:52 p.m.
 member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
-
     Today we found out that the official website of donkey car has been updated. We used Linux system before, but now Windows system is added.Perhaps for us, the           windows system can be more familiar and easy to use.
 
 日期：2022/06/22（星期三）下午 1:52
@@ -35,7 +34,6 @@ Content:
 成員: 呂承諭、胡允瑞
 
 內容：
-
     今天我們發現 donkey car 的官網更新了，之前我們使用的是 Linux 系統，而現在新增了 Windows 系統，我們對其進行嘗試，或許對於我們來說 windows 可以更熟悉、上手。
 
 -------
