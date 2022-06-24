@@ -27,6 +27,14 @@ Date: 2022/06/23 (Thu) 6:53 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
+    We have added an OLED to the model today.We connected it and installed the OLED display service, and the OLED can display the current IP address, battery, voltage and other information.
+
+日期：2022/06/23（星期四）下午 6:53
+
+成員: 呂承諭、胡允瑞
+
+內容：
+  我們今天在機型上增加了一個 OLED，將其接上，下命令安装OLED的顯示服务後，OLED便可以顯示當前的IP地址、电池和电压等信息。
 
 -------
 
