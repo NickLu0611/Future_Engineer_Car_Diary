@@ -15,12 +15,12 @@ This is WRO2022 Future Engineers comtetion's Note.
     6. Steering mechanism:   Servo motor with LEGO Liftarm Thick(1*11), PCA9685
     7. Camera:               OV5647 Raspberry Pi Camera
   
-![IMG_5443](https://user-images.githubusercontent.com/107915065/175438608-e84103ae-66df-4438-9a57-4281739a14e0.JPG)
+
 
  * Software
 
   The car uses [Donkey Car](https://www.donkeycar.com/) doing Self Driving Car Platform. [Donkey Car](https://www.donkeycar.com/)  is a high level self driving library written in [Python](https://www.python.org/). It is an Open Source Hardware design that makes it easy for you to build your own car. And use Raspberry Pi control the car to start driving. The code are in `src` Folder.
-![IMG_5444](https://user-images.githubusercontent.com/107915065/175438710-0abcc4bb-24e2-416e-bb98-4f40d48be045.JPG)
+
   
 # Diary
 -------
@@ -30,7 +30,8 @@ Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
     We have added an OLED to the model today.We connected it and installed the OLED display service, and the OLED can display the current IP address, battery, voltage and other information.In this way, when we need these data in the future, we don't have to write additional program instructions to find it, it can saves our time.
-
+![IMG_5443](https://user-images.githubusercontent.com/107915065/175438608-e84103ae-66df-4438-9a57-4281739a14e0.JPG)
+![IMG_5444](https://user-images.githubusercontent.com/107915065/175438710-0abcc4bb-24e2-416e-bb98-4f40d48be045.JPG)
 日期：2022/06/23（星期四）下午 6:53
 
 成員: 呂承諭、胡允瑞
