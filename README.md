@@ -28,6 +28,8 @@ Date: 2022/06/24 (Fri) 3:18 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
+![IMG_5463](https://user-images.githubusercontent.com/107915065/175811033-9726ecef-ccfa-4a1e-8eb0-78ada401539a.JPG)
+![IMG_5471](https://user-images.githubusercontent.com/107915065/175811037-695fe116-4e13-4e53-9b53-aa1ab75ed8d4.JPG)
 
 -------
 Date: 2022/06/23 (Thu) 6:53 p.m.
