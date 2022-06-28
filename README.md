@@ -27,8 +27,9 @@ Date: 2022/06/28 (Tue) 5:21 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
 
-Content: ![S__6782981](https://user-images.githubusercontent.com/107915065/176084749-be88c040-6af1-4c52-a789-72efb96bb9ef.jpg)
-![S__6782984](https://user-images.githubusercontent.com/107915065/176084759-7ef71a68-2766-4118-983e-6861e29fb9f0.jpg)
+Content: ![S__6782985](https://user-images.githubusercontent.com/107915065/176084864-9d2e627d-b3ea-483b-8955-026737042d58.jpg)
+![S__6782989](https://user-images.githubusercontent.com/107915065/176084871-c184ea50-45ca-4aae-8420-8aa876a4881c.jpg)
+
 
 Date: 2022/06/27 (Mon) 4:08 p.m.
 
