@@ -23,6 +23,13 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/06/28 (Tue) 5:21 p.m.
+
+Member: LU-CHENG YU , HU-YUN RUI
+
+Content: ![S__6782981](https://user-images.githubusercontent.com/107915065/176084749-be88c040-6af1-4c52-a789-72efb96bb9ef.jpg)
+![S__6782984](https://user-images.githubusercontent.com/107915065/176084759-7ef71a68-2766-4118-983e-6861e29fb9f0.jpg)
+
 Date: 2022/06/27 (Mon) 4:08 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
