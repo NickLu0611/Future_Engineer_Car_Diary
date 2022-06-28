@@ -23,6 +23,14 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/06/27 (Mon) 4:08 p.m.
+
+Member: LU-CHENG YU , HU-YUN RUI
+
+Content: ![S__6782984](https://user-images.githubusercontent.com/107915065/176074988-79a52a09-821f-4119-8751-fae4e5c00349.jpg)
+![S__6782981](https://user-images.githubusercontent.com/107915065/176075008-d9f2c984-59aa-4350-90db-09374a0350fb.jpg)
+
+
 Date: 2022/06/24 (Fri) 3:18 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
@@ -47,7 +55,6 @@ Content:
 
 內容：
   我們今天在機型上增加了一個 OLED，將其接上並下命令安装OLED的顯示功能後，OLED便可以顯示當前的IP地址、电池和电壓等信息，如此一來，我們未來需要這些數據的時候，不必在額外下指令尋找，使我們節省時間。
-  而機型部分，
 
 -------
 
