@@ -26,10 +26,17 @@ This is WRO2022 Future Engineers comtetion's Note.
 Date: 2022/06/28 (Tue) 5:21 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
+Content:
+-------![S__7053317](https://user-images.githubusercontent.com/107915065/176983433-68a16c13-5675-4098-87e5-b3bc1d5f1e50.jpg)
+![S__7053315](https://user-images.githubusercontent.com/107915065/176983434-e8a8a640-afcb-4308-97b6-89ac4eb202c4.jpg)
+
+Date: 2022/06/28 (Tue) 5:21 p.m.
+
+Member: LU-CHENG YU , HU-YUN RUI
 
 Content: ![S__6782985](https://user-images.githubusercontent.com/107915065/176084864-9d2e627d-b3ea-483b-8955-026737042d58.jpg)
 ![S__6782989](https://user-images.githubusercontent.com/107915065/176084871-c184ea50-45ca-4aae-8420-8aa876a4881c.jpg)
-
+-------
 
 Date: 2022/06/27 (Mon) 4:08 p.m.
 
@@ -38,7 +45,7 @@ Member: LU-CHENG YU , HU-YUN RUI
 Content: ![S__6782984](https://user-images.githubusercontent.com/107915065/176074988-79a52a09-821f-4119-8751-fae4e5c00349.jpg)
 ![S__6782981](https://user-images.githubusercontent.com/107915065/176075008-d9f2c984-59aa-4350-90db-09374a0350fb.jpg)
 
-
+-------
 Date: 2022/06/24 (Fri) 3:18 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
