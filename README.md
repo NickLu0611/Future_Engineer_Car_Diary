@@ -26,10 +26,10 @@ This is WRO2022 Future Engineers comtetion's Note.
 Date: 2022/06/28 (Tue) 5:21 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
-Content:
--------![S__7053317](https://user-images.githubusercontent.com/107915065/176983433-68a16c13-5675-4098-87e5-b3bc1d5f1e50.jpg)
+Content:![S__7053317](https://user-images.githubusercontent.com/107915065/176983433-68a16c13-5675-4098-87e5-b3bc1d5f1e50.jpg)
 ![S__7053315](https://user-images.githubusercontent.com/107915065/176983434-e8a8a640-afcb-4308-97b6-89ac4eb202c4.jpg)
 
+-------
 Date: 2022/06/28 (Tue) 5:21 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
