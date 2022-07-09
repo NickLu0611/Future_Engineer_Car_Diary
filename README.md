@@ -27,6 +27,14 @@ Date: 2022/07/02 (Sat)6:10 p.m.
 
 Member: LU-CHENG YU ,HU-YUN RUI
 Content:
+
+日期：2022/07/02（星期六）下午 6:10
+
+成員: 呂承諭、胡允瑞
+
+內容：
+  我們今天將昨天設計好的汽車，利用雷射切割機切割，並依照設計圖組裝車子，經測試油門、轉向以及AI自動駕駛沒問題後，完成了最終車子的模樣。
+ 
 ![S__7053319](https://user-images.githubusercontent.com/107915065/176983710-cd8c33e8-44e5-4ecb-ac09-79fb812805f9.jpg)
 ![S__7053321](https://user-images.githubusercontent.com/107915065/176983713-ccdfb8ac-6895-4294-bccf-6185cd3e4438.jpg)
 
@@ -38,7 +46,8 @@ Date: 2022/06/28 (Tue) 5:21 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
 
-Content: ![S__6782985](https://user-images.githubusercontent.com/107915065/176084864-9d2e627d-b3ea-483b-8955-026737042d58.jpg)
+Content: 
+![S__6782985](https://user-images.githubusercontent.com/107915065/176084864-9d2e627d-b3ea-483b-8955-026737042d58.jpg)
 ![S__6782989](https://user-images.githubusercontent.com/107915065/176084871-c184ea50-45ca-4aae-8420-8aa876a4881c.jpg)
 -------
 
