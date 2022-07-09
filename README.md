@@ -28,6 +28,7 @@ Date: 2022/07/02 (Sat)6:10 p.m.
 Member: LU-CHENG YU ,HU-YUN RUI
 
 Content:
+Today, we cut the car we designed yesterday with a laser cutter, and assemble the car according to the design drawing. After testing the accelerator, steering and AI automatic driving, we have completed the final appearance of the car.
 
 日期：2022/07/02（星期六）下午 6:10
 
@@ -47,7 +48,7 @@ Date: 2022/06/28 (Tue) 5:21 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
 
-Content: 
+Content: Today, we found that the redesigned vehicle a few days ago has asymmetry, which causes the vehicle to skew to the right when driving, so we changed the design drawing under the original architecture, changed the steering structure of the vehicle, and used Onshape's 3D simulation The function simulates the hardware and structure of the vehicle, so as to ensure that the vehicle design is feasible, and at the same time, it can better understand the poor design and make changes.
 
 日期：2022/06/28（星期二）下午 5:21
 
@@ -64,7 +65,7 @@ Date: 2022/06/27 (Mon) 4:08 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
 
-Content: 
+Content: Today we found that the car will make a loud gear noise when driving. After asking the coach and testing, we found that the motor output gear and the differential gear are too densely engaged, so there is no gap between the gears, which causes the car to drive slowly and emit noise. Excessive noise, so we changed the fixed end of the motor to a distance-adjustable motor frame, which can directly adjust the gap between the motor and the differential.
 
 日期：2022/06/27（星期一）下午 4:08
 
@@ -81,7 +82,7 @@ Date: 2022/06/24 (Fri) 3:18 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
 
-Content: 
+Content: Today we redesigned the vehicle. Since the old vehicle structure is divided into three layers, and the height of each layer is about 4cm~5cm, the center of gravity of the vehicle is offset when turning at high speed, which will cause the vehicle to roll over during driving. Therefore, we let the car's The center of gravity becomes lower, and at the same time, the Raspberry Pi controller is changed from vertical to horizontal placement, which makes it easier to extract the SD card, and also allows more space to put down hardware components, reducing space waste. thereby reducing the body size.
 
 日期：2022/06/24（星期五）下午 3:18
 
