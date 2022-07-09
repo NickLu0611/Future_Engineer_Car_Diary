@@ -65,8 +65,6 @@ Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
     We have added an OLED to the model today.We connected it and installed the OLED display service, and the OLED can display the current IP address, battery, voltage and other information.In this way, when we need these data in the future, we don't have to write additional program instructions to find it, it can saves our time.
-![IMG_5444](https://user-images.githubusercontent.com/107915065/175439679-9b7dde9c-8680-42eb-b8e0-02b59bcc860e.JPG)
-![IMG_5440](https://user-images.githubusercontent.com/107915065/175439789-2ec1e98b-d52e-4027-a285-dc774abfe430.JPG)
 
 日期：2022/06/23（星期四）下午 6:53
 
@@ -75,6 +73,8 @@ Content:
 內容：
   我們今天在機型上增加了一個 OLED，將其接上並下命令安装OLED的顯示功能後，OLED便可以顯示當前的IP地址、电池和电壓等信息，如此一來，我們未來需要這些數據的時候，不必在額外下指令尋找，使我們節省時間。
 
+![IMG_5444](https://user-images.githubusercontent.com/107915065/175439679-9b7dde9c-8680-42eb-b8e0-02b59bcc860e.JPG)
+![IMG_5440](https://user-images.githubusercontent.com/107915065/175439789-2ec1e98b-d52e-4027-a285-dc774abfe430.JPG)
 -------
 
 Date : 2022/06/22 (Wed) 1:52 p.m.
