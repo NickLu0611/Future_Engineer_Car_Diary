@@ -27,8 +27,18 @@ Date: 2022/07/04 (Mon)3:18 p.m.
 
 Member: LU-CHENG YU ,HU-YUN RUI
 
-Content: 我們在練習訓練環時，總是需要花費大量時間等待，所以我們一直在找解決方案，我們用之前研究的Windows-Python3.7系統，上網找了很多資料，並開始更深度的了解conda。
+Content: When we practice the training environment, it always takes a lot of time to wait, so we have been looking for a better alternative. We chose to use the Windows-Python3.7 system we studied before to extend the discussion, found a lot of information on the Internet, and start tounderstand conda more deeply.
+
+
+日期：2022/07/04（星期1）下午 6:10
+
+成員: 呂承諭、胡允瑞
+
+內容：
+
+我們在練習訓練環境時，因為總是需要花費大量時間等待，所以我們一直在找更好的代替方案，我們選擇用之前研究的Windows-Python3.7系統延伸探討，上網找了很多資料，並開始更深度的了解conda。
 ![擷取](https://user-images.githubusercontent.com/107915065/178139969-f525fb6c-480f-4cc0-bf23-e84dbdb2fca8.PNG)
+![擷取](https://user-images.githubusercontent.com/107915065/178140175-5dc454ed-2118-4609-ad36-1c0a29cd98d4.PNG)
 
 
 Date: 2022/07/02 (Sat)6:10 p.m.
@@ -47,9 +57,6 @@ Today, we cut the car we designed yesterday with a laser cutter, and assemble th
  
 ![S__7053319](https://user-images.githubusercontent.com/107915065/176983710-cd8c33e8-44e5-4ecb-ac09-79fb812805f9.jpg)
 ![S__7053321](https://user-images.githubusercontent.com/107915065/176983713-ccdfb8ac-6895-4294-bccf-6185cd3e4438.jpg)
-
-![S__7053317](https://user-images.githubusercontent.com/107915065/176983433-68a16c13-5675-4098-87e5-b3bc1d5f1e50.jpg)
-![S__7053315](https://user-images.githubusercontent.com/107915065/176983434-e8a8a640-afcb-4308-97b6-89ac4eb202c4.jpg)
 
 -------
 Date: 2022/06/28 (Tue) 5:21 p.m.
