@@ -23,6 +23,14 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/07/04 (Mon)3:18 p.m.
+
+Member: LU-CHENG YU ,HU-YUN RUI
+
+Content: 我們在練習訓練環時，總是需要花費大量時間等待，所以我們一直在找解決方案，我們用之前研究的Windows-Python3.7系統，上網找了很多資料，並開始更深度的了解conda。
+![擷取](https://user-images.githubusercontent.com/107915065/178139969-f525fb6c-480f-4cc0-bf23-e84dbdb2fca8.PNG)
+
+
 Date: 2022/07/02 (Sat)6:10 p.m.
 
 Member: LU-CHENG YU ,HU-YUN RUI
