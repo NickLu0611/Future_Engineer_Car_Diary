@@ -51,7 +51,6 @@ Today, we downloaded and installed Cuda and configured cuDNN to achieve high per
 成員:胡允瑞
 
 內容：
-
 今天，我們下載和安裝了Cuda並配置cuDNN 來實現高性能 GPU 加速，載入後但測試結果卻是有錯誤的。
 ![擷取1](https://user-images.githubusercontent.com/107915065/178140944-e84123df-35f4-4768-82f0-07c49dccfd74.PNG)
 ![image](https://user-images.githubusercontent.com/107915065/178141075-5d7dd9a7-65b8-40c1-9b5c-3101a5e6ac45.png)
