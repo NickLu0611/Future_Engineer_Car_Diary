@@ -280,13 +280,13 @@ Date: 2022/06/11 (Sat) 4:18 p.m.
 Member: LU-CHENG YU
 
 Content: 
-We finished designing the hardware and structure of the car! So we started to control the car by joystick, let the camera of the car record the route of the field and the control of the car, let the car sprint at full power in the straight line, avoid the black wall in the opposite direction when it meets the wall, and let the car turn right or left according to the current driving direction (clockwise or counterclockwise) when it comes to the turn, but after the training was completed, our model in some cases However, after the training, our model could not complete 3 laps as usual in some cases.
+We finished designing the hardware and structure of the car! So we started to control the car by joystick, let the camera of the car record the route of the field and the control of the car, let the car sprint at full power in the straight line, avoid the black wall in the opposite direction when it meets the wall, and let the car turn right or left according to the current driving direction (clockwise or counterclockwise) when it comes to the turn, but after the training was completed, our model in some cases However, after the training, our model could not complete 3 laps as usual in some cases, even the vehicle can easily get out of control.
 
 日期：2022/06/11（週六）下午 4:18
 
 成員:呂承諭
 
-內容：我們把車輛的硬體和結構設計完成了！於是我們開始透過搖桿控制汽車，讓汽車的攝影鏡頭錄製場地的路線以及汽車的控制，讓汽車在直線的地方全力衝刺，在遇到黑色的牆時會以牆的反方向避開，而到了轉彎處，讓汽車能夠依照當前駕駛方向(順時針或逆時針)向右轉或向左轉，但是在訓練完成之後，我們的模型在有些情況下，無法照常跑完3圈。
+內容：我們把車輛的硬體和結構設計完成了！於是我們開始透過搖桿控制汽車，讓汽車的攝影鏡頭錄製場地的路線以及汽車的控制，讓汽車在直線的地方全力衝刺，在遇到黑色的牆時會以牆的反方向避開，而到了轉彎處，讓汽車能夠依照當前駕駛方向(順時針或逆時針)向右轉或向左轉，但是在訓練完成之後，我們的模型在有些情況下，無法照常跑完3圈，甚至車輛很容易失控。
 ![290130172_337452421867994_8842806172222251432_n](https://user-images.githubusercontent.com/74124750/178387107-10d15f93-1502-4a8c-aaeb-bdbe83412ce6.jpg)
 ![289775466_403746338388863_2342595496004969141_n](https://user-images.githubusercontent.com/74124750/178387117-11e8c996-80fd-4b6b-959e-83858c584307.jpg)
 
