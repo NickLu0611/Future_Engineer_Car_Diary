@@ -63,7 +63,6 @@ Date: 2022/07/04 (Mon)3:18 p.m.
 Member:HU-YUN RUI
 
 Content: 
-
 When we practice the training environment, it always takes a lot of time to wait, so we have been looking for a better alternative. We chose to use the Windows-Python3.7 system we studied before to extend the discussion, found a lot of information on the Internet, and start tounderstand conda more deeply.
 
 
@@ -72,7 +71,6 @@ When we practice the training environment, it always takes a lot of time to wait
 成員:胡允瑞
 
 內容：
-
 我們在練習訓練環境時，因為總是需要花費大量時間等待，所以我們一直在找更好的代替方案，我們選擇用之前研究的Windows-Python3.7系統延伸探討，上網找了很多資料，並開始更深度的了解conda。
 ![擷取](https://user-images.githubusercontent.com/107915065/178139969-f525fb6c-480f-4cc0-bf23-e84dbdb2fca8.PNG)
 ![擷取](https://user-images.githubusercontent.com/107915065/178140175-5dc454ed-2118-4609-ad36-1c0a29cd98d4.PNG)
@@ -83,7 +81,6 @@ Date: 2022/07/02 (Sat)6:10 p.m.
 Member: LU-CHENG YU ,HU-YUN RUI
 
 Content:
-
 Today, we cut the car we designed yesterday with a laser cutter, and assemble the car according to the design drawing. After testing the accelerator, steering and AI automatic driving, we have completed the final appearance of the car.
 
 日期：2022/07/02（星期六）下午 6:10
@@ -91,7 +88,6 @@ Today, we cut the car we designed yesterday with a laser cutter, and assemble th
 成員: 呂承諭、胡允瑞
 
 內容：
-
   我們今天將昨天設計好的汽車，利用雷射切割機切割，並依照設計圖組裝車子，經測試油門、轉向以及AI自動駕駛沒問題後，完成了最終車子的模樣。
  
 ![S__7053319](https://user-images.githubusercontent.com/107915065/176983710-cd8c33e8-44e5-4ecb-ac09-79fb812805f9.jpg)
@@ -103,7 +99,6 @@ Date: 2022/06/28 (Tue) 5:21 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content:
-
 Today, we found that the redesigned vehicle a few days ago has asymmetry, which causes the vehicle to skew to the right when driving, so we changed the design drawing under the original architecture, changed the steering structure of the vehicle, and used Onshape's 3D simulation The function simulates the hardware and structure of the vehicle, so as to ensure that the vehicle design is feasible, and at the same time, it can better understand the poor design and make changes.
 
 日期：2022/06/28（星期二）下午 5:21
@@ -111,7 +106,6 @@ Today, we found that the redesigned vehicle a few days ago has asymmetry, which 
 成員: 呂承諭、胡允瑞
 
 內容：
-
   今天我們發現前幾天重新設計的車輛有左右不對稱、導致車輛在駕駛時向右偏斜的問題，於是我們在原本架構下更改設計圖，並更改了車輛的轉向結構，並利用Onshape的3D模擬功能模擬車輛的硬體、結構，這麼一來可以確保車輛設計可行的同時，能夠更加清楚設計不良的地方，並進行更改。
   
 ![S__6782985](https://user-images.githubusercontent.com/107915065/176084864-9d2e627d-b3ea-483b-8955-026737042d58.jpg)
@@ -123,7 +117,6 @@ Date: 2022/06/27 (Mon) 4:08 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content:
-
 Today we found that the car will make a loud gear noise when driving. After asking the coach and testing, we found that the motor output gear and the differential gear are too densely engaged, so there is no gap between the gears, which causes the car to drive slowly and emit noise. Excessive noise, so we changed the fixed end of the motor to a distance-adjustable motor frame, which can directly adjust the gap between the motor and the differential.
 
 日期：2022/06/27（星期一）下午 4:08
@@ -131,7 +124,6 @@ Today we found that the car will make a loud gear noise when driving. After aski
 成員: 呂承諭、胡允瑞
 
 內容：
-
   今天我們發現車子在駕駛的時候會發出很大聲的齒輪噪音，經過詢問教練以及測試發現馬達輸出齒輪與差速器的齒輪咬合過於密集，因此齒輪間因為沒有間隙而導致汽車駕駛速度慢和發出過大的噪音，因此我們將馬達固定端更改成可調距離式的馬達架，可以直接調整馬達與差速器的間隙
   
 ![S__6782984](https://user-images.githubusercontent.com/107915065/176074988-79a52a09-821f-4119-8751-fae4e5c00349.jpg)
@@ -143,7 +135,6 @@ Date: 2022/06/24 (Fri) 3:18 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
-
 Today we redesigned the vehicle. Since the old vehicle structure is divided into three layers, and the height of each layer is about 4cm~5cm, the center of gravity of the vehicle is offset when turning at high speed, which will cause the vehicle to roll over during driving. Therefore, we let the car's The center of gravity becomes lower, and at the same time, the Raspberry Pi controller is changed from vertical to horizontal placement, which makes it easier to extract the SD card, and also allows more space to put down hardware components, reducing space waste. thereby reducing the body size.
 
 日期：2022/06/24（星期五）下午 3:18
@@ -151,7 +142,6 @@ Today we redesigned the vehicle. Since the old vehicle structure is divided into
 成員: 呂承諭、胡允瑞
 
 內容：
-
   今天我們又重新設計了車輛，由於舊型車輛結構分成三層，且每一層的高度都大約4cm~5cm，在高速轉彎時車輛的重心偏移導致車輛行駛過程中會翻車，因此我們讓汽車的重心變得較低，同時也讓樹莓派控制器從縱向放置改為橫向放置，這麼一來能夠更方便的抽取SD卡，也能多出更多的空間放下硬體元件，減少空間浪費，進而縮小車體。
   
 ![IMG_5463](https://user-images.githubusercontent.com/107915065/175811033-9726ecef-ccfa-4a1e-8eb0-78ada401539a.JPG)
@@ -164,7 +154,6 @@ Date: 2022/06/23 (Thu) 6:53 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
-
     We have added an OLED to the model today.We connected it and installed the OLED display service, and the OLED can display the current IP address, battery, voltage and other information.In this way, when we need these data in the future, we don't have to write additional program instructions to find it, it can saves our time.
 
 日期：2022/06/23（星期四）下午 6:53
@@ -172,7 +161,6 @@ Content:
 成員: 呂承諭、胡允瑞
 
 內容：
-
   我們今天在機型上增加了一個 OLED，將其接上並下命令安装OLED的顯示功能後，OLED便可以顯示當前的IP地址、电池和电壓等信息，如此一來，我們未來需要這些數據的時候，不必在額外下指令尋找，使我們節省時間。
 
 ![IMG_5440](https://user-images.githubusercontent.com/107915065/175439789-2ec1e98b-d52e-4027-a285-dc774abfe430.JPG)
@@ -183,7 +171,6 @@ Date : 2022/06/22 (Wed) 1:52 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
-
     Today we found out that the official website of donkey car has been updated. We used Linux system before, but now Windows system is added.Perhaps for us, the windows system can be more familiar and easy to use.
    
 日期：2022/06/22（星期三）下午 1:52
@@ -191,7 +178,6 @@ Content:
 成員: 呂承諭、胡允瑞
 
 內容：
-
     今天我們發現 donkey car 的官網更新了，之前我們使用的是 Linux 系統，而現在新增了 Windows 系統，我們開始對其進行嘗試，或許對於我們來說 windows 會更熟悉，也更好上手。
 ![1](https://user-images.githubusercontent.com/107915065/174947403-794c4749-618e-499f-a587-691f4d45832a.png)
 
