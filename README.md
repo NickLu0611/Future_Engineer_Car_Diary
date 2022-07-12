@@ -51,7 +51,9 @@ Today we found the problem. If the comparison and selection of Cuda and cuDNN on
 
 成員:胡允瑞
 
-工作內容：今天我們發現了問題所在，Cuda 和 cuDNN 如果在版本上的對照及選擇是錯誤的，那呈現出來的結果也會是有問題的，所以我們找到了相對應的正確版本，並將之前下載的相關檔案移除，從下載miniconda的步驟從頭來過，終於成功使用 GPU 代替 CPU 進行環境訓練，在速度上便可以明顯感覺提升。
+工作內容：
+
+今天我們發現了問題所在，Cuda 和 cuDNN 如果在版本上的對照及選擇是錯誤的，那呈現出來的結果也會是有問題的，所以我們找到了相對應的正確版本，並將之前下載的相關檔案移除，從下載miniconda的步驟從頭來過，終於成功使用 GPU 代替 CPU 進行環境訓練，在速度上便可以明顯感覺提升。
 
 ![擷取](https://user-images.githubusercontent.com/107915065/178141468-6875d742-733a-445a-8483-1719e7ac97e7.PNG)
 ![image](https://user-images.githubusercontent.com/107915065/178394437-661a746a-c290-4cf8-a97a-0e2229103fa1.png)
