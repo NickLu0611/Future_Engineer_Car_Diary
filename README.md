@@ -268,11 +268,16 @@ Member: LU-CHENG YU
 
 Content: 
 
+Yesterday's training results are quite unstable for the vehicle, so we re-trained around the field to find the cause of the problem, because for the detection of the vehicle, whether it is the speed or the detection is not normal. Objects will still appear abnormal after the training is completed later.
+
 日期：2022/06/12（週日）下午 6:37 
 
 成員：呂承諭
 
 內容：
+
+昨天的訓練結果對於車輛來說，還算是很不穩定的，因次我們重新繞場訓練，找尋問題的原因，因為對於車子的偵測來說，不管是速度還是偵測到不屬於正規的的物體，都會在後面訓練完成後，依然出現非正常情況。
+![image](https://user-images.githubusercontent.com/107915065/178390050-2902192c-73a1-428f-b63a-4669c89bdce2.png)
 
 --------
 Date: 2022/06/11 (Sat) 4:18 p.m.
