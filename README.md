@@ -329,6 +329,9 @@ We finished designing the hardware and structure of the car! So we started to co
 工作內容：
 
 我們把車輛的硬體和結構設計完成了！於是我們開始透過搖桿控制汽車，讓汽車的攝影鏡頭錄製場地的路線以及汽車的控制，讓汽車在直線的地方全力衝刺，在遇到黑色的牆時會以牆的反方向避開，而到了轉彎處，讓汽車能夠依照當前駕駛方向(順時針或逆時針)向右轉或向左轉，但是在訓練完成之後，我們的模型在有些情況下，無法照常跑完3圈，甚至車輛很容易失控。
+
+
+https://user-images.githubusercontent.com/74124750/178409917-a456a7e7-e12c-4ae6-9a84-0c2e228c21ef.mp4
 ![image](https://user-images.githubusercontent.com/107915065/178389208-dbc515b8-af7e-4935-b002-6954b4197956.png)
 ![289775466_403746338388863_2342595496004969141_n](https://user-images.githubusercontent.com/74124750/178387117-11e8c996-80fd-4b6b-959e-83858c584307.jpg)
 
