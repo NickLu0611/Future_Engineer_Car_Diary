@@ -29,6 +29,7 @@ Member:HU-YUN RUI
 
 Content: 
 
+Today we found the problem. If the comparison and selection of Cuda and cuDNN on versions are wrong, the results presented will also be problematic, so we found the corresponding correct version, and related the previously downloaded version. The file was removed, and the steps of downloading miniconda were restarted. Finally, the GPU was successfully used instead of the CPU for environmental training. The speed can be significantly improved.
 
 
 日期：2022/07/06（星期四）下午 4:19
@@ -53,12 +54,11 @@ Today, we downloaded and installed Cuda and configured cuDNN to achieve high per
 
 內容：
 
-今天，我們下載和安裝了Cuda並配置cuDNN 來實現高性能 GPU 加速，載入後但測試結果卻是有錯誤的。
+今天，我們下載和安裝了Cuda並配置cuDNN 來實現高性能 GPU 加速，但載入後的測試結果卻是有錯誤的。
 ![擷取1](https://user-images.githubusercontent.com/107915065/178140944-e84123df-35f4-4768-82f0-07c49dccfd74.PNG)
 ![image](https://user-images.githubusercontent.com/107915065/178141075-5d7dd9a7-65b8-40c1-9b5c-3101a5e6ac45.png)
 
-
-
+--------
 Date: 2022/07/04 (Mon)3:18 p.m.
 
 Member:HU-YUN RUI
@@ -78,6 +78,7 @@ When we practice the training environment, it always takes a lot of time to wait
 ![擷取](https://user-images.githubusercontent.com/107915065/178139969-f525fb6c-480f-4cc0-bf23-e84dbdb2fca8.PNG)
 ![擷取](https://user-images.githubusercontent.com/107915065/178140175-5dc454ed-2118-4609-ad36-1c0a29cd98d4.PNG)
 
+------
 
 Date: 2022/07/02 (Sat)6:10 p.m.
 
