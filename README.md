@@ -43,6 +43,8 @@ Content:
 ![292425380_749280279729904_804669233689923045_n](https://user-images.githubusercontent.com/107915065/178660399-a7005807-f52c-45ab-bcdf-291254f26ba7.jpg)
 ![291783913_908370227223952_6910427142751155816_n](https://user-images.githubusercontent.com/107915065/178660412-4f9cc762-78b5-4b16-abbf-1d76c5f576b9.jpg)
 ![292285327_1369770923515741_1475278518503013676_n](https://user-images.githubusercontent.com/107915065/178660428-e2679098-0f72-48ca-9fcf-7f5fc01b3252.jpg)
+![image](https://user-images.githubusercontent.com/107915065/178672578-dcccc685-37bf-4c56-b287-e0474aef5d5e.png)
+
 
 -------
 Date: 2022/07/10 (Mon)6p.m.
