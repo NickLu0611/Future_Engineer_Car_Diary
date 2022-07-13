@@ -29,6 +29,7 @@ Date: 2022/07/13 (Wed)5:17 p.m.
 Member:LU-CHENG YU ,HU-YUN RUI
 
 Content: 
+
     During training, we always encounter a collision with the wall, which also causes the front part of the car body to be easily smashed. In order to improve the problem of the car being damaged, we chose foam and cut it out with a laser cutter. Match the shape that our body needs, because we can't find the power of cutting foam on the Internet, so we have to try again and again, and finally find the correct and successful cutting!
     
 日期：2022/07/10（星期三）下午 5:17
@@ -36,7 +37,8 @@ Content:
 成員:呂承諭、胡允瑞
 
 工作內容：
-  在訓練時，總是會遇到撞牆的時候，也導致車體前方的部分，很容易就被撞爛了，為了改善車子被破壞的問題，我們選擇了泡棉，用雷射切割機切出搭配我們機體所需要的形狀，因為在網上我們都長找不到關於切割泡棉的功率，所以只好一次一次的嘗試，最後終於找到正確的成功切割!
+
+  在訓練時，總是會遇到撞牆的時候，也導致車體前方的部分，很容易就被撞爛了，為了改善車子被破壞的問題，我們選擇了泡棉，用雷射切割機切出搭配我們機體所需要的形狀，因為在網上我們都找不到關於切割泡棉的功率，所以只好一次一次的嘗試，最後終於找到正確的成功切割!
 ![290919207_1275377122868448_247899751621901739_n](https://user-images.githubusercontent.com/107915065/178660379-4c182cda-e9be-409e-b5f5-4d4be84431a4.jpg)
 ![292425380_749280279729904_804669233689923045_n](https://user-images.githubusercontent.com/107915065/178660399-a7005807-f52c-45ab-bcdf-291254f26ba7.jpg)
 ![291783913_908370227223952_6910427142751155816_n](https://user-images.githubusercontent.com/107915065/178660412-4f9cc762-78b5-4b16-abbf-1d76c5f576b9.jpg)
@@ -49,14 +51,15 @@ Member:LU-CHENG YU ,HU-YUN RUI
 
 Content: 
 
-
-
+We began to change different field tasks for testing. In continuous training, we tried to increase the speed as much as possible, but in the case of turning, there would still be a delay problem.
 
 日期：2022/07/10（星期一）下午 6:00
 
 成員:呂承諭、胡允瑞
 
 工作內容：
+
+  我們開始變換不同的場地任務進行測試，在不斷的訓練中，盡可能地將速度提升，而遇到的情況則是在轉彎時，仍會有延遲的問題。
 
 ![291701755_808423143480659_4410612983174338014_n](https://user-images.githubusercontent.com/107915065/178636395-28c018a6-f0e5-4f26-b3e9-2c2399ed2601.jpg)
 
