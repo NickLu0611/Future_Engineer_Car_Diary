@@ -23,6 +23,37 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/07/16 (Sat) 7 p.m.
+
+Member:LU-CHENG YU ,HU-YUN RUI
+
+Content: 
+
+
+
+日期：2022/07/15（星期Sat）下午 7:00
+
+成員:呂承諭、胡允瑞
+
+工作內容：
+-------
+Date: 2022/07/15 (Fri) 2 p.m.
+
+Member:LU-CHENG YU ,HU-YUN RUI
+
+Content:
+    Recently, we have been using different venues for simulation training one by one, and on a stable basis, we have tried to increase the speed as much as possible.
+日期：2022/07/15（星期五）下午 2:00
+
+成員:呂承諭、胡允瑞
+
+工作內容：
+
+  近期，我們都在用不同的場地一個一個進行模擬訓練，在穩定的基礎下，盡可能地提升速度。
+![292426670_721458525608140_8170895943032731616_n](https://user-images.githubusercontent.com/107915065/179328676-5a601962-8304-4549-980c-77439c8e09ba.jpg)
+![292446841_276317078044899_1677936645027783075_n](https://user-images.githubusercontent.com/107915065/179328698-d3dd5201-cfe4-43b3-b603-f22893578bd2.jpg)
+
+------
 
 Date: 2022/07/13 (Wed)5:17 p.m.
 
@@ -32,7 +63,7 @@ Content:
 
     During training, we always encounter a collision with the wall, which also causes the front part of the car body to be easily smashed. In order to improve the problem of the car being damaged, we chose foam and cut it out with a laser cutter. Match the shape that our body needs, because we can't find the power of cutting foam on the Internet, so we have to try again and again, and finally find the correct and successful cutting!
     
-日期：2022/07/10（星期三）下午 5:17
+日期：2022/07/13（星期三）下午 5:17
 
 成員:呂承諭、胡允瑞
 
@@ -44,6 +75,7 @@ Content:
 ![291783913_908370227223952_6910427142751155816_n](https://user-images.githubusercontent.com/107915065/178660412-4f9cc762-78b5-4b16-abbf-1d76c5f576b9.jpg)
 ![292285327_1369770923515741_1475278518503013676_n](https://user-images.githubusercontent.com/107915065/178660428-e2679098-0f72-48ca-9fcf-7f5fc01b3252.jpg)
 ![image](https://user-images.githubusercontent.com/107915065/178672578-dcccc685-37bf-4c56-b287-e0474aef5d5e.png)
+![292980452_1496467854143506_1979140512332814259_n](https://user-images.githubusercontent.com/107915065/179328692-c9fa4f67-53ea-4bb8-bb84-290ea2a0261d.jpg)
 
 
 -------
@@ -51,9 +83,7 @@ Date: 2022/07/10 (Mon)6p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI
 
-Content: 
-
-We began to change different field tasks for testing. In continuous training, we tried to increase the speed as much as possible, but in the case of turning, there would still be a delay problem.
+Content: We started to change different field tasks to test, in continuous training, to make it as stable as possible, and the situation we encountered was when turning, there was still a delay problem.
 
 日期：2022/07/10（星期一）下午 6:00
 
@@ -61,7 +91,7 @@ We began to change different field tasks for testing. In continuous training, we
 
 工作內容：
 
-  我們開始變換不同的場地任務進行測試，在不斷的訓練中，盡可能地將速度提升，而遇到的情況則是在轉彎時，仍會有延遲的問題。
+    我們開始變換不同的場地任務進行測試，在不斷的訓練中，盡可能地使其穩定，而遇到的情況則是在轉彎時，仍會有延遲的問題。
 
 ![291701755_808423143480659_4410612983174338014_n](https://user-images.githubusercontent.com/107915065/178636395-28c018a6-f0e5-4f26-b3e9-2c2399ed2601.jpg)
 
@@ -70,9 +100,7 @@ Date: 2022/07/06 (Wed)4:19 p.m.
 
 Member:HU-YUN RUI
 
-Content: 
-
-Today we found the problem. If the comparison and selection of Cuda and cuDNN on versions are wrong, the results presented will also be problematic, so we found the corresponding correct version, and related the previously downloaded version. The file was removed, and the steps of downloading miniconda were restarted. Finally, the GPU was successfully used instead of the CPU for environmental training. The speed can be significantly improved.
+Content:  Today we found the problem. If the comparison and selection of Cuda and cuDNN on versions are wrong, the results presented will also be problematic, so we found the corresponding correct version, and related the previously downloaded version. The file was removed, and the steps of downloading miniconda were restarted. Finally, the GPU was successfully used instead of the CPU for environmental training. The speed can be significantly improved.
 
 
 日期：2022/07/06（星期四）下午 4:19
@@ -81,7 +109,7 @@ Today we found the problem. If the comparison and selection of Cuda and cuDNN on
 
 工作內容：
 
-今天我們發現了問題所在，Cuda 和 cuDNN 如果在版本上的對照及選擇是錯誤的，那呈現出來的結果也會是有問題的，所以我們找到了相對應的正確版本，並將之前下載的相關檔案移除，從下載miniconda的步驟從頭來過，終於成功使用 GPU 代替 CPU 進行環境訓練，在速度上便可以明顯感覺提升。
+    今天我們發現了問題所在，Cuda 和 cuDNN 如果在版本上的對照及選擇是錯誤的，那呈現出來的結果也會是有問題的，所以我們找到了相對應的正確版本，並將之前下載的相關檔案移除，從下載miniconda的步驟從頭來過，終於成功使用 GPU 代替 CPU 進行環境訓練，在速度上便可以明顯感覺提升。
 
 ![擷取](https://user-images.githubusercontent.com/107915065/178141468-6875d742-733a-445a-8483-1719e7ac97e7.PNG)
 ![image](https://user-images.githubusercontent.com/107915065/178394437-661a746a-c290-4cf8-a97a-0e2229103fa1.png)
@@ -91,9 +119,7 @@ Date: 2022/07/06 (Wed)4:19 p.m.
 
 Member:HU-YUN RUI
 
-Content: 
-
-Today, we downloaded and installed Cuda and configured cuDNN to achieve high performance GPU acceleration, but the test results were wrong after loading.
+Content: Today, we downloaded and installed Cuda and configured cuDNN to achieve high performance GPU acceleration, but the test results were wrong after loading.
 
 日期：2022/07/06（星期四）下午 4:19
 
@@ -101,7 +127,7 @@ Today, we downloaded and installed Cuda and configured cuDNN to achieve high per
 
 工作內容：
 
-今天，我們下載和安裝了Cuda並配置cuDNN 來實現高性能 GPU 加速，但載入後的測試結果卻是有錯誤的。
+    今天，我們下載和安裝了Cuda並配置cuDNN 來實現高性能 GPU 加速，但載入後的測試結果卻是有錯誤的。
 ![擷取1](https://user-images.githubusercontent.com/107915065/178140944-e84123df-35f4-4768-82f0-07c49dccfd74.PNG)
 ![image](https://user-images.githubusercontent.com/107915065/178141075-5d7dd9a7-65b8-40c1-9b5c-3101a5e6ac45.png)
 
@@ -110,9 +136,7 @@ Date: 2022/07/04 (Mon)3:18 p.m.
 
 Member:HU-YUN RUI
 
-Content: 
-
-When we practice the training environment, it always takes a lot of time to wait, so we have been looking for a better alternative. We chose to use the Windows-Python3.7 system we studied before to extend the discussion, found a lot of information on the Internet, and start tounderstand conda more deeply.
+Content:  When we practice the training environment, it always takes a lot of time to wait, so we have been looking for a better alternative. We chose to use the Windows-Python3.7 system we studied before to extend the discussion, found a lot of information on the Internet, and start tounderstand conda more deeply.
 
 
 日期：2022/07/04（星期一）下午 3:18
@@ -121,7 +145,7 @@ When we practice the training environment, it always takes a lot of time to wait
 
 工作內容：
 
-我們在練習訓練環境時，因為總是需要花費大量時間等待，所以我們一直在找更好的代替方案，我們選擇用之前研究的Windows-Python3.7系統延伸探討，上網找了很多資料，並開始更深度的了解conda。
+    我們在練習訓練環境時，因為總是需要花費大量時間等待，所以我們一直在找更好的代替方案，我們選擇用之前研究的Windows-Python3.7系統延伸探討，上網找了很多資料，並開始更深度的了解conda。
 ![擷取](https://user-images.githubusercontent.com/107915065/178139969-f525fb6c-480f-4cc0-bf23-e84dbdb2fca8.PNG)
 ![擷取](https://user-images.githubusercontent.com/107915065/178140175-5dc454ed-2118-4609-ad36-1c0a29cd98d4.PNG)
 
@@ -131,9 +155,7 @@ Date: 2022/07/02 (Sat)6:10 p.m.
 
 Member: LU-CHENG YU ,HU-YUN RUI
 
-Content:
-
-Today, we cut the car we designed yesterday with a laser cutter, and assemble the car according to the design drawing. After testing the accelerator, steering and AI automatic driving, we have completed the final appearance of the car.
+Content:Today, we cut the car we designed yesterday with a laser cutter, and assemble the car according to the design drawing. After testing the accelerator, steering and AI automatic driving, we have completed the final appearance of the car.
 
 日期：2022/07/02（星期六）下午 6:10
 
@@ -153,9 +175,7 @@ Date: 2022/06/28 (Tue) 5:21 p.m.
 
 Member: LU-CHENG YU , HU-YUN RUI
 
-Content:
-
-Today, we found that the redesigned vehicle a few days ago has asymmetry, which causes the vehicle to skew to the right when driving, so we changed the design drawing under the original architecture, changed the steering structure of the vehicle, and used Onshape's 3D simulation The function simulates the hardware and structure of the vehicle, so as to ensure that the vehicle design is feasible, and at the same time, it can better understand the poor design and make changes.
+Content: Today, we found that the redesigned vehicle a few days ago has asymmetry, which causes the vehicle to skew to the right when driving, so we changed the design drawing under the original architecture, changed the steering structure of the vehicle, and used Onshape's 3D simulation The function simulates the hardware and structure of the vehicle, so as to ensure that the vehicle design is feasible, and at the same time, it can better understand the poor design and make changes.
 
 日期：2022/06/28（星期二）下午 5:21
 
@@ -174,8 +194,7 @@ Date: 2022/06/27 (Mon) 4:08 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content:
-
-Today we found that the car will make a loud gear noise when driving. After asking the coach and testing, we found that the motor output gear and the differential gear are too densely engaged, so there is no gap between the gears, which causes the car to drive slowly and emit noise. Excessive noise, so we changed the fixed end of the motor to a distance-adjustable motor frame, which can directly adjust the gap between the motor and the differential.
+    Today we found that the car will make a loud gear noise when driving. After asking the coach and testing, we found that the motor output gear and the differential gear are too densely engaged, so there is no gap between the gears, which causes the car to drive slowly and emit noise. Excessive noise, so we changed the fixed end of the motor to a distance-adjustable motor frame, which can directly adjust the gap between the motor and the differential.
 
 日期：2022/06/27（星期一）下午 4:08
 
@@ -195,7 +214,7 @@ Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
 
-Today we redesigned the vehicle. Since the old vehicle structure is divided into three layers, and the height of each layer is about 4cm~5cm, the center of gravity of the vehicle is offset when turning at high speed, which will cause the vehicle to roll over during driving. Therefore, we let the car's The center of gravity becomes lower, and at the same time, the Raspberry Pi controller is changed from vertical to horizontal placement, which makes it easier to extract the SD card, and also allows more space to put down hardware components, reducing space waste. thereby reducing the body size.
+    Today we redesigned the vehicle. Since the old vehicle structure is divided into three layers, and the height of each layer is about 4cm~5cm, the center of gravity of the vehicle is offset when turning at high speed, which will cause the vehicle to roll over during driving. Therefore, we let the car's The center of gravity becomes lower, and at the same time, the Raspberry Pi controller is changed from vertical to horizontal placement, which makes it easier to extract the SD card, and also allows more space to put down hardware components, reducing space waste. thereby reducing the body size.
 
 日期：2022/06/24（星期五）下午 3:18
 
