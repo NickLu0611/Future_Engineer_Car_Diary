@@ -31,11 +31,14 @@ Content:
 
 
 
-日期：2022/07/15（星期Sat）下午 7:00
+日期：2022/07/15（星期六）下午 7:00
 
 成員:呂承諭、胡允瑞
 
-工作內容：
+工作內容：![293656103_1689014944805821_3764997330266167431_n](https://user-images.githubusercontent.com/107915065/179335858-50f832a5-9f13-4366-bd70-a13461d56252.jpg)
+![293727770_800157504688219_3161042901078333493_n](https://user-images.githubusercontent.com/107915065/179335860-2bf9f482-ae9b-4bf6-8b5d-0fe8babdb664.jpg)
+![292106994_1006880596668183_4584048919245615636_n](https://user-images.githubusercontent.com/107915065/179335863-b2f73714-6cd8-4dd8-8265-4c9574b1a493.jpg)
+
 -------
 Date: 2022/07/15 (Fri) 2 p.m.
 
@@ -97,14 +100,14 @@ Content: We started to change different field tasks to test, in continuous train
 ![291701755_808423143480659_4410612983174338014_n](https://user-images.githubusercontent.com/107915065/178636395-28c018a6-f0e5-4f26-b3e9-2c2399ed2601.jpg)
 
 -------
-Date: 2022/07/06 (Wed)4:19 p.m.
+Date: 2022/07/07 (Tue)4:19 p.m.
 
 Member:HU-YUN RUI
 
 Content:  Today we found the problem. If the comparison and selection of Cuda and cuDNN on versions are wrong, the results presented will also be problematic, so we found the corresponding correct version, and related the previously downloaded version. The file was removed, and the steps of downloading miniconda were restarted. Finally, the GPU was successfully used instead of the CPU for environmental training. The speed can be significantly improved.
 
 
-日期：2022/07/06（星期四）下午 4:19
+日期：2022/07/07（星期四）下午 4:19
 
 成員:胡允瑞
 
@@ -122,7 +125,7 @@ Member:HU-YUN RUI
 
 Content: Today, we downloaded and installed Cuda and configured cuDNN to achieve high performance GPU acceleration, but the test results were wrong after loading.
 
-日期：2022/07/06（星期四）下午 4:19
+日期：2022/07/06（星期三）下午 4:19
 
 成員:胡允瑞
 
