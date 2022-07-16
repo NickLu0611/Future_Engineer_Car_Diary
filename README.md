@@ -43,6 +43,7 @@ Member:LU-CHENG YU ,HU-YUN RUI
 
 Content:
     Recently, we have been using different venues for simulation training one by one, and on a stable basis, we have tried to increase the speed as much as possible.
+    
 日期：2022/07/15（星期五）下午 2:00
 
 成員:呂承諭、胡允瑞
