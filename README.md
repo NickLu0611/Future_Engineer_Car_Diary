@@ -23,7 +23,7 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
-Date: 2022/07/16 (Sat) 7 p.m.
+Date: 2022/07/17 (Sun) 5:39 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI
 
@@ -31,11 +31,33 @@ Content:
 
 
 
-日期：2022/07/15（星期六）下午 7:00
+日期：2022/07/17（星期日）下午 5:39
 
 成員:呂承諭、胡允瑞
 
-工作內容：![293656103_1689014944805821_3764997330266167431_n](https://user-images.githubusercontent.com/107915065/179335858-50f832a5-9f13-4366-bd70-a13461d56252.jpg)
+工作內容：我們的車體原先用的是木板，後來我們還是認為這樣的車體太脆弱了，於是最終還是決定換成壓克力板，加上之前買的泡棉，這樣可以更加防撞。在之前我們也想過使用碳纖維作為材料，但由於訂做需要花費幾個禮拜的時間，而我們也來不及，因此只好選擇壓克力。在一次一次的重新組裝的過程中，也讓我們越來越熟悉所有架構。
+![293421018_371454641734698_4045366244140361850_n](https://user-images.githubusercontent.com/107915065/179440614-5167ec21-807e-4507-b3e0-08fcc304fc98.jpg)
+![292470886_342220451456541_8974741083345313250_n](https://user-images.githubusercontent.com/107915065/179440621-e202c19f-dbfc-43b1-8aaf-4974117acca5.jpg)
+![292546003_412866667293716_1558840509726093978_n](https://user-images.githubusercontent.com/107915065/179440626-663c108c-a854-430f-af9f-1712b8e6eecc.jpg)
+![292762172_573957167721640_4205047880423515132_n](https://user-images.githubusercontent.com/107915065/179440630-71f4a16d-e182-4fed-85c9-07328be2c87d.jpg)
+
+
+Date: 2022/07/16 (Sat) 7 p.m.
+
+Member:LU-CHENG YU ,HU-YUN RUI
+
+Content: 
+    Today, we implemented the circuit that was simulated yesterday, and soldered the circuit on the board as shown in the figure below, which can reduce the adjustment of many extra wires except the sensor.
+  
+
+
+日期：2022/07/16（星期六）下午 7:00
+
+成員:呂承諭、胡允瑞
+
+工作內容：
+    今天我們把昨天模擬好的電路實現出來，將板上線路焊好如下圖，如此可以減少除了感測器外，許多額外的插線。
+![293656103_1689014944805821_3764997330266167431_n](https://user-images.githubusercontent.com/107915065/179335858-50f832a5-9f13-4366-bd70-a13461d56252.jpg)
 ![293727770_800157504688219_3161042901078333493_n](https://user-images.githubusercontent.com/107915065/179335860-2bf9f482-ae9b-4bf6-8b5d-0fe8babdb664.jpg)
 ![292106994_1006880596668183_4584048919245615636_n](https://user-images.githubusercontent.com/107915065/179335863-b2f73714-6cd8-4dd8-8265-4c9574b1a493.jpg)
 
