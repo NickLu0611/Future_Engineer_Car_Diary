@@ -23,12 +23,24 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
-Date: 2022/07/17 (Sun) 5:39 p.m.
+Date: 2022/07/18 (Mon) 4:11 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI
 
 Content: 
 
+
+日期：2022/07/18（星期一）下午 4:11
+
+成員:呂承諭、胡允瑞
+
+工作內容：
+
+Date: 2022/07/17 (Sun) 5:39 p.m.
+
+Member:LU-CHENG YU ,HU-YUN RUI
+
+Content: 
      Our car body was originally made of wooden boards. Later, we still thought that such a car body was too fragile, so we finally decided to replace it with acrylic board, plus the foam we bought before, which could be more crash-proof. We also thought about using carbon fiber as a material before, but since it would take a few weeks to order, and we were too late, we had to choose acrylic. In the process of reassembly again and again, we become more and more familiar with all architectures, and when errors occur, we can find problems faster and faster.
 
 日期：2022/07/17（星期日）下午 5:39
