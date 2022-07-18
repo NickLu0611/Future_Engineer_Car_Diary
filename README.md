@@ -29,13 +29,14 @@ Member:LU-CHENG YU ,HU-YUN RUI
 
 Content: 
 
-
+     Our car body was originally made of wooden boards. Later, we still thought that such a car body was too fragile, so we finally decided to replace it with acrylic board, plus the foam we bought before, which could be more crash-proof. We also thought about using carbon fiber as a material before, but since it would take a few weeks to order, and we were too late, we had to choose acrylic. In the process of reassembly again and again, we become more and more familiar with all architectures, and when errors occur, we can find problems faster and faster.
 
 日期：2022/07/17（星期日）下午 5:39
 
 成員:呂承諭、胡允瑞
 
-工作內容：我們的車體原先用的是木板，後來我們還是認為這樣的車體太脆弱了，於是最終還是決定換成壓克力板，加上之前買的泡棉，這樣可以更加防撞。在之前我們也想過使用碳纖維作為材料，但由於訂做需要花費幾個禮拜的時間，而我們也來不及，因此只好選擇壓克力。在一次一次的重新組裝的過程中，也讓我們越來越熟悉所有架構。
+工作內容：
+    我們的車體原先用的是木板，後來我們還是認為這樣的車體太脆弱了，於是最終還是決定換成壓克力板，加上之前買的泡棉，這樣可以更加防撞。在之前我們也想過使用碳纖維作為材料，但由於訂做需要花費幾個禮拜的時間，而我們也來不及，因此只好選擇壓克力。在一次一次的重新組裝的過程中，也讓我們越來越熟悉所有架構，在發生錯誤時，也能越來越快找到問題。
 ![293421018_371454641734698_4045366244140361850_n](https://user-images.githubusercontent.com/107915065/179440614-5167ec21-807e-4507-b3e0-08fcc304fc98.jpg)
 ![292470886_342220451456541_8974741083345313250_n](https://user-images.githubusercontent.com/107915065/179440621-e202c19f-dbfc-43b1-8aaf-4974117acca5.jpg)
 ![292546003_412866667293716_1558840509726093978_n](https://user-images.githubusercontent.com/107915065/179440626-663c108c-a854-430f-af9f-1712b8e6eecc.jpg)
