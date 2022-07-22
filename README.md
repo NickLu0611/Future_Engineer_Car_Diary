@@ -23,18 +23,57 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/07/20(Wed) 4:16 p.m.
+
+Member:LU-CHENG YU ,HU-YUN RUI
+
+Content: 
+   The field task designed for the qualifying competition has been trained and tested today, so we start to learn the color recognition function that will be required in future competitions. As shown in the picture, the green and red mission objects can be identified with the car in the camera.
+
+日期：2022/07/20（星期三）下午 7:48
+
+成員:呂承諭、胡允瑞
+
+工作內容：
+    今天將資格賽所設計的場地任務訓練並且測試完畢了，於是我們開始學習未來競賽中，所需要具備的顏色辨識功能。如圖所示，使車子在鏡頭中，能夠辨認出綠色與紅色的任務物件。
+    ![293818969_797026581313561_8785380862283984927_n](https://user-images.githubusercontent.com/107915065/180473126-f5af2a91-26bc-4c88-a778-ff69225cb2fe.png)
+![293985513_462376345308887_1596243536726051829_n](https://user-images.githubusercontent.com/107915065/180473178-05a7f151-590f-4017-b465-fc5a2a5d53b6.jpg)
+![293683935_398416435603338_7096946433661520611_n](https://user-images.githubusercontent.com/107915065/180473320-e346b31d-fbae-46ef-8897-4998f9cee111.jpg)
+
+-------
+Date: 2022/07/19 (Tue) 7:48 p.m.
+
+Member:LU-CHENG YU ,HU-YUN RUI
+
+Content: 
+    For the problem described yesterday, we still searched for the problem in the tree plum pie itself, and found a lot of information on the Internet. Finally, we decided to replace the SD card and test to see if the problem was because of it. Although it took a lot of time to transfer the data, when we trained again, we found that the problem was really improved!
+
+日期：2022/07/19（星期二）下午 7:48
+
+成員:呂承諭、胡允瑞
+
+工作內容：
+    昨天所敘述的問題，我們還是在樹梅派本身找問題，上網找了很多的資料，最後我們決定換掉SD卡測試看看，看問題是否是因為它。雖然在進行資料轉移的時候，花費了不少的時間，但當我們再次訓練，發現問題真的被改善了!
+    ![Uploading 293349931_1426502124518734_4103423841797233228_n.jpg…]()
+![293380404_439925021360987_1345821820943038607_n](https://user-images.githubusercontent.com/107915065/180473496-3c907e18-ad77-4fd3-a12a-ec2d66c1714b.jpg)
+
+-------
 Date: 2022/07/18 (Mon) 4:11 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI
 
 Content: 
-
+     After the car was assembled again, we continued our training work, constantly changing different venues to simulate the situation during the competition, but during the remote control stage, we encountered a problem, that is, the green light of the Meipai sometimes suddenly turns on. At this time, the car body will lose control and hit the wall, but this uncontrolled situation will not occur during automatic driving, so we have been thinking about how to deal with this while training. emergency.
 
 日期：2022/07/18（星期一）下午 4:11
 
 成員:呂承諭、胡允瑞
 
 工作內容：
+
+    車子再次組裝完畢後，我們繼續了我們的訓練工作，不斷變換不同的場地，以模擬比賽時的情況，但在遙控階段時，我們遇到了一個問題，就是數梅派的綠燈有時會突然亮起，這個時候的車體便會失去控制，以至於撞牆，可這個不受控的情形，在自動駕駛時是不會出現的，因此我們在訓練的同時，也一直在思考，要如何處理這個突發狀況。
+![292615583_1740185146351876_3152711034326488837_n](https://user-images.githubusercontent.com/107915065/180473530-097d54a0-cae6-4281-81f1-ff61c21ac1fe.jpg)
+![Uploading 293135502_390413626311320_5166414758988208785_n.jpg…]()
 
 Date: 2022/07/17 (Sun) 5:39 p.m.
 
