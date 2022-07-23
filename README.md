@@ -23,6 +23,17 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/07/23(Sat) 3:18 p.m.
+
+Member:LU-CHENG YU ,HU-YUN RUI
+
+Content: 
+   
+日期：2022/07/23（星期六) 下午3:18
+
+成員:呂承諭、胡允瑞
+
+工作內容：
 Date: 2022/07/20(Wed) 4:16 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI
@@ -30,7 +41,7 @@ Member:LU-CHENG YU ,HU-YUN RUI
 Content: 
    The field task designed for the qualifying competition has been trained and tested today, so we start to learn the color recognition function that will be required in future competitions. As shown in the picture, the green and red mission objects can be identified with the car in the camera.
 
-日期：2022/07/20（星期三）下午 7:48
+日期：2022/07/20（星期三）下午 4:16
 
 成員:呂承諭、胡允瑞
 
