@@ -27,13 +27,19 @@ Date: 2022/07/23(Sat) 3:18 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI
 
-Content: 
+Content:
+    The qualifying competition is about to start next week, so we have a simulation competition. According to the competition system for next week, we will update one question every hour, and practice recording it as a video to put on YouTube. However, due to time constraints, we only simulated for three hours, which is In the first hour, because we were not familiar with the three questions, we were still in a hurry in terms of equipment, but in the last hour, after receiving the questions, we were all getting used to it, and the preparation time in front of us was getting shorter. less and less.
    
 日期：2022/07/23（星期六) 下午3:18
 
 成員:呂承諭、胡允瑞
 
-工作內容：
+工作內容；
+    下禮拜資格賽即將開始，所以我們進行了一場模擬比賽，按照下周的賽制，一個小時更新一個題目，並練習錄製成影片放置YOUTUBE，但由於時間關係，我們只模擬了三個小時，也就是三個題目，在第一個小時，因為不熟悉，所以在設備方面，都還有些手忙腳亂，但到最後一個小時，我們在接到題目後，都已越來越上手，前面的準備時間也越來越少。
+![294546000_769678407559491_6895206383730576321_n](https://user-images.githubusercontent.com/107915065/180672489-adad1b28-72cc-4bcb-89ed-1b3b8c0194b1.jpg)
+![293860734_1105830400010239_2368014256874978430_n](https://user-images.githubusercontent.com/107915065/180672493-b2502357-a312-4a79-9a4c-0078c7314c83.jpg)
+![294026161_425733836239642_5931709593095440709_n](https://user-images.githubusercontent.com/107915065/180672545-68c06129-ba18-49e1-a05f-e4da8af59348.jpg)
+
 
 Date: 2022/07/20(Wed) 4:16 p.m.
 
