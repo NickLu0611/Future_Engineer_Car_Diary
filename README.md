@@ -446,13 +446,14 @@ Date: 2022/06/16 (Thu) 7:41 p.m.
 Member: LU-CHENG YU, HU-YUN RUI
 
 Content: 
-
+    In order to stabilize the car, we constantly changed the field mission to simulate, and in the process, found and corrected the errors caused by the model.
 
 日期：2022/06/16（週四）下午 7:41
 
 成員：呂承諭、胡允瑞
 
 工作內容：
+    為了讓車子穩定下來，我們不斷變更場地任務進行模擬，在過程中，找尋並且修正機型所導致的錯誤。
 ![image](https://user-images.githubusercontent.com/107915065/178392251-3e1bc79a-578a-4369-b4c0-321f631acf03.png)
 
 --------
