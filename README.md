@@ -10,7 +10,7 @@ This is WRO2022 Future Engineers comtetion's Note.
    Items|Specification
    --|--
    Wheel(Front):| Lego 62.4x20 wheel  x2
-   Wheel(Rear): Lego 43.2x14 wheel  x2
+   Wheel(Rear):| Lego 43.2x14 wheel  x2
    controller:| Raspberry Pi 4B 8GB, Matrix Mini MR110
    transmission:| 1:34 Motor with plastic differential
    Steering mechanism:| Servo motor with LEGO Liftarm Thick(1*11)
