@@ -203,7 +203,6 @@ Content: We started to change different field tasks to test, in continuous train
 成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
-
     我們開始變換不同的場地任務進行測試，在不斷的訓練中，盡可能地使其穩定，而遇到的情況則是在轉彎時，仍會有延遲的問題。
 
 ![291701755_808423143480659_4410612983174338014_n](https://user-images.githubusercontent.com/107915065/178636395-28c018a6-f0e5-4f26-b3e9-2c2399ed2601.jpg)
@@ -221,7 +220,6 @@ Content:  Today we found the problem. If the comparison and selection of Cuda an
 成員:胡允瑞
 
 工作內容：
-
     今天我們發現了問題所在，Cuda 和 cuDNN 如果在版本上的對照及選擇是錯誤的，那呈現出來的結果也會是有問題的，所以我們找到了相對應的正確版本，並將之前下載的相關檔案移除，從下載miniconda的步驟從頭來過，終於成功使用 GPU 代替 CPU 進行環境訓練，在速度上便可以明顯感覺提升。
 
 ![擷取](https://user-images.githubusercontent.com/107915065/178141468-6875d742-733a-445a-8483-1719e7ac97e7.PNG)
@@ -239,7 +237,6 @@ Content: Today, we downloaded and installed Cuda and configured cuDNN to achieve
 成員:胡允瑞
 
 工作內容：
-
     今天，我們下載和安裝了Cuda並配置cuDNN 來實現高性能 GPU 加速，但載入後的測試結果卻是有錯誤的。
 ![擷取1](https://user-images.githubusercontent.com/107915065/178140944-e84123df-35f4-4768-82f0-07c49dccfd74.PNG)
 ![image](https://user-images.githubusercontent.com/107915065/178141075-5d7dd9a7-65b8-40c1-9b5c-3101a5e6ac45.png)
@@ -257,7 +254,6 @@ Content:  When we practice the training environment, it always takes a lot of ti
 成員:胡允瑞
 
 工作內容：
-
     我們在練習訓練環境時，因為總是需要花費大量時間等待，所以我們一直在找更好的代替方案，我們選擇用之前研究的Windows-Python3.7系統延伸探討，上網找了很多資料，並開始更深度的了解conda。
 ![擷取](https://user-images.githubusercontent.com/107915065/178139969-f525fb6c-480f-4cc0-bf23-e84dbdb2fca8.PNG)
 ![擷取](https://user-images.githubusercontent.com/107915065/178140175-5dc454ed-2118-4609-ad36-1c0a29cd98d4.PNG)
