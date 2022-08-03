@@ -174,7 +174,6 @@ Date: 2022/07/13 (Wed)5:17 p.m.
 Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: 
-
     During training, we always encounter a collision with the wall, which also causes the front part of the car body to be easily smashed. In order to improve the problem of the car being damaged, we chose foam and cut it out with a laser cutter. Match the shape that our body needs, because we can't find the power of cutting foam on the Internet, so we have to try again and again, and finally find the correct and successful cutting!
     
 日期：2022/07/13（星期三）下午 5:17
