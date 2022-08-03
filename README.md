@@ -25,6 +25,23 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/08/03 (Mon)6p.m.
+
+Member:LU-CHENG YU, CHEN-GUAN ZHANG
+
+Content:
+
+日期：2022/08/03（星期三）下午 6:00
+
+成員:呂承諭、陳冠璋
+
+工作內容：
+    今天我們開始撰寫偵測顏色積木的程式，雖然大致上機器可以判斷並轉向，但是還是會有一些問題發生，例如在極端的題目下汽車無法馬上轉向導致撞倒積木，還有在未到轉角處時，汽車就開始轉向導致撞向牆壁。
+    ![290542712_567388701703480_7720263358334119147_n](https://user-images.githubusercontent.com/110533388/182590859-cbbf8759-044e-43f5-9055-de3d9ee45c0b.jpg)
+https://user-images.githubusercontent.com/110533388/182591895-712ff52c-4be3-4ce6-b6db-a1c04dd40514.mp4
+
+
+
 Date: 2022/07/23(Sat) 3:18 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
