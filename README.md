@@ -7,15 +7,15 @@ This is WRO2022 Future Engineers comtetion's Note.
   The car uses [Onshape](https://www.onshape.com/en/) design car's shape, then use Laser cutting machine cut the planks, planks with hexagonal column doing compartment, put hardware in compartment. the drawings are in `models`
   
   Hardware have:
-Items|Specification
---|--
-1. Wheel(Front):| Lego 62.4x20 wheel  x2
-2. Wheel(Rear):| Lego 43.2x14 wheel  x2
-4. controller:| Raspberry Pi 4B 8GB, Matrix Mini MR110
-5. transmission:| 1:34 Motor with plastic differential
-6. Steering mechanism:| Servo motor with LEGO Liftarm Thick(1*11)
-7. Camera:| OV5647 Raspberry Pi Camera
-8. Other sensors:| adafruit TCS34725 Color Sensor(Detect race track's Line), adafruit BNO055 Gyro(Let car move straight)
+   Items|Specification
+   --|--
+   Wheel(Front):| Lego 62.4x20 wheel  x2
+   Wheel(Rear): Lego 43.2x14 wheel  x2
+   controller:| Raspberry Pi 4B 8GB, Matrix Mini MR110
+   transmission:| 1:34 Motor with plastic differential
+   Steering mechanism:| Servo motor with LEGO Liftarm Thick(1*11)
+   Camera:| OV5647 Raspberry Pi Camera
+   Other sensors:| adafruit TCS34725 Color Sensor(Detect race track's Line), adafruit BNO055 Gyro(Let car move straight)
   
 
 
