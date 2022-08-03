@@ -19,7 +19,7 @@ This is WRO2022 Future Engineers comtetion's Note.
 
  * Software
 
-  The car uses [OpenCV](https://opencv.org/) doing Self Driving Car Platform. OpenCV is a image processing library written in [Python](https://www.python.org/) or C language. It is an Open Source Hardware design that makes it easy for you to build your own image processing system. And we use Raspberry Pi with Python control the car to avoidance. The code are in `src` Folder.
+  The car uses [OpenCV](https://opencv.org/) doing Self Driving Car Platform. OpenCV is a image processing library written by [Python](https://www.python.org/) or C Language. It is an Open Source Hardware design that makes it easy for you to build your own image processing system. And we use Raspberry Pi with Python control the car to avoidance. The code are in `src` Folder.
 
   
 # Diary
