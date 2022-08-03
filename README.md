@@ -27,13 +27,13 @@ This is WRO2022 Future Engineers comtetion's Note.
 # Diary
 Date: 2022/07/23(Sat) 3:18 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content:
    
 日期：2022/07/23（星期六) 下午3:18
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容:
 ![294860853_594066505485255_392570619323839133_n](https://user-images.githubusercontent.com/107915065/180901697-f3e930f1-57f0-424a-b9b1-78981f647342.jpg)
@@ -44,14 +44,14 @@ Content:
 
 Date: 2022/07/23(Sat) 3:18 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content:
     The qualifying competition is about to start next week, so we have a simulation competition. According to the competition system for next week, we will update one question every hour, and practice recording it as a video to put on YouTube. However, due to time constraints, we only simulated for three hours, which is In the first hour, because we were not familiar with the three questions, we were still in a hurry in terms of equipment, but in the last hour, after receiving the questions, we were all getting used to it, and the preparation time in front of us was getting shorter. less and less.
    
 日期：2022/07/23（星期六) 下午3:18
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容:
     下禮拜資格賽即將開始，為此我們進行了一場模擬比賽，按照資格賽的賽制，一個小時更新一個題目，並練習錄製成影片放置YOUTUBE，但由於時間關係，我們只模擬了三個小時，也就是三個題目，在第一個小時，因為不熟悉，所以在設備方面，都還有些手忙腳亂，但到最後一個小時，我們在接到題目後，都已越來越上手，前面的準備時間也有縮短許多。
@@ -63,14 +63,14 @@ Content:
 
 Date: 2022/07/20(Wed) 4:16 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: 
    The field task designed for the qualifying competition has been trained and tested today, so we start to learn the color recognition function that will be required in future competitions. As shown in the picture, the green and red mission objects can be identified with the car in the camera.
 
 日期：2022/07/20（星期三）下午 4:16
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
     今天將資格賽所設計的場地任務訓練並且測試完畢了，於是我們開始學習未來競賽中，所需要具備的顏色辨識功能。如圖所示，使車子在鏡頭中，能夠辨認出綠色與紅色的任務物件。
@@ -81,14 +81,14 @@ Content:
 -------
 Date: 2022/07/19 (Tue) 7:48 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: 
     For the problem described yesterday, we still searched for the problem in the tree plum pie itself, and found a lot of information on the Internet. Finally, we decided to replace the SD card and test to see if the problem was because of it. Although it took a lot of time to transfer the data, when we trained again, we found that the problem was really improved!
 
 日期：2022/07/19（星期二）下午 7:48
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
     昨天所敘述的問題，我們還是在樹梅派本身找問題，上網找了很多的資料，最後我們決定換掉SD卡測試看看，看問題是否是因為它。雖然在進行資料轉移的時候，花費了不少的時間，但當我們再次訓練，發現問題真的被改善了!
@@ -97,14 +97,14 @@ Content:
 -------
 Date: 2022/07/18 (Mon) 4:11 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: 
      After the car was assembled again, we continued our training work, constantly changing different venues to simulate the situation during the competition, but during the remote control stage, we encountered a problem, that is, the green light of the Meipai sometimes suddenly turns on. At this time, the car body will lose control and hit the wall, but this uncontrolled situation will not occur during automatic driving, so we have been thinking about how to deal with this while training. emergency.
 
 日期：2022/07/18（星期一）下午 4:11
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
     車子再次組裝完畢後，我們繼續了我們的訓練工作，不斷變換不同的場地，以模擬比賽時的情況，但在遙控階段時，我們遇到了一個問題，就是數梅派的綠燈有時會突然亮起，這個時候的車體便會失去控制，以至於撞牆，可這個不受控的情形，在自動駕駛時是不會出現的，因此我們在訓練的同時，也一直在思考，要如何處理這個突發狀況。
@@ -113,14 +113,14 @@ Content:
 
 Date: 2022/07/17 (Sun) 5:39 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: 
      Our car body was originally made of wooden boards. Later, we still thought that such a car body was too fragile, so we finally decided to replace it with acrylic board, plus the foam we bought before, which could be more crash-proof. We also thought about using carbon fiber as a material before, but since it would take a few weeks to order, and we were too late, we had to choose acrylic. In the process of reassembly again and again, we become more and more familiar with all architectures, and when errors occur, we can find problems faster and faster.
 
 日期：2022/07/17（星期日）下午 5:39
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
     我們的車體原先用的是木板，後來我們還是認為這樣的車體太脆弱了，於是最終還是決定換成壓克力板，加上之前買的泡棉，這樣可以更加防撞。在之前我們也想過使用碳纖維作為材料，但由於訂做需要花費幾個禮拜的時間，而我們也來不及，因此只好選擇壓克力。在一次一次的重新組裝的過程中，也讓我們越來越熟悉所有架構，在發生錯誤時，也能越來越快找到問題。
@@ -132,7 +132,7 @@ Content:
 
 Date: 2022/07/16 (Sat) 7 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: 
     Today, we implemented the circuit that was simulated yesterday, and soldered the circuit on the board as shown in the figure below, which can reduce the adjustment of many extra wires except the sensor.
@@ -141,7 +141,7 @@ Content:
 
 日期：2022/07/16（星期六）下午 7:00
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
     今天我們把昨天模擬好的電路實現出來，將板上線路焊好如下圖，如此可以減少除了感測器外，許多額外的插線。
@@ -152,14 +152,14 @@ Content:
 -------
 Date: 2022/07/15 (Fri) 2 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content:
     Recently, we have been using different venues for simulation training one by one, and on a stable basis, we have tried to increase the speed as much as possible.
     
 日期：2022/07/15（星期五）下午 2:00
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
 
@@ -171,7 +171,7 @@ Content:
 
 Date: 2022/07/13 (Wed)5:17 p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: 
 
@@ -179,7 +179,7 @@ Content:
     
 日期：2022/07/13（星期三）下午 5:17
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
 
@@ -195,13 +195,13 @@ Content:
 -------
 Date: 2022/07/10 (Mon)6p.m.
 
-Member:LU-CHENG YU ,HU-YUN RUI
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: We started to change different field tasks to test, in continuous training, to make it as stable as possible, and the situation we encountered was when turning, there was still a delay problem.
 
 日期：2022/07/10（星期一）下午 6:00
 
-成員:呂承諭、胡允瑞
+成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容：
 
