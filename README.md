@@ -10,10 +10,11 @@ This is WRO2022 Future Engineers comtetion's Note.
   
     1. Wheel(Front):         Lego 62.4x20 wheel  x2
     2. Wheel(Rear):          Lego 43.2x14 wheel  x2
-    4. controller:           Raspberry Pi 4B 8GB
+    4. controller:           Raspberry Pi 4B 8GB, Matrix Mini MR110
     5. transmission:         1:34 Motor with plastic differential
-    6. Steering mechanism:   Servo motor with LEGO Liftarm Thick(1*11), PCA9685
+    6. Steering mechanism:   Servo motor with LEGO Liftarm Thick(1*11)
     7. Camera:               OV5647 Raspberry Pi Camera
+    8. Other sensors:        adafruit TCS34725 Color Sensor(Detect race track's Line), adafruit BNO055 Gyro(Let car move straight)
   
 
 
