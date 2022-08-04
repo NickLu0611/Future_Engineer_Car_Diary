@@ -29,7 +29,7 @@ Date: 2022/08/03 (Mon)6p.m.
 
 Member:LU-CHENG YU, CHEN-GUAN ZHANG
 
-Content:
+Content: Today, we started to write a program to detect color blocks. Although the machine can generally judge and steer, there will still be some problems. For example, under extreme problems, the car cannot turn immediately, causing the block to be hit, and when the corner is not reached , the car started to swerve and crashed into the wall.
 
 日期：2022/08/03（星期三）下午 6:00
 
