@@ -590,4 +590,3 @@ We finished designing the hardware and structure of the car! So we started to co
   
   工作內容: 
     今天我們設計好了車子的外型，接下來我們要選擇硬體，然後裝到車上，以及選擇、設定軟體，讓車子動起來，車子就大致上完成了
-     
