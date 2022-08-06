@@ -36,19 +36,35 @@ Content: Today, we started to write a program to detect color blocks. Although t
 成員:呂承諭、陳冠璋
 
 工作內容：
-    今天我們開始撰寫偵測顏色積木的程式，雖然大致上機器可以判斷並轉向，但是還是會有一些問題發生，例如在極端的題目下汽車無法馬上轉向導致撞倒積木，還有在未到轉角處時，汽車就開始轉向導致撞向牆壁。
+  今天我們開始撰寫偵測顏色積木的程式，雖然大致上機器可以判斷並轉向，但是還是會有一些問題發生，例如在極端的題目下汽車無法馬上轉向導致撞倒積木，還有在未到轉角處時，汽車就開始轉向導致撞向牆壁。
+  
     ![290542712_567388701703480_7720263358334119147_n](https://user-images.githubusercontent.com/110533388/182590859-cbbf8759-044e-43f5-9055-de3d9ee45c0b.jpg)
     ![296095579_1404105446757593_8276566905004156868_n](https://user-images.githubusercontent.com/110533388/182592130-6d4ec8e4-420c-4288-99c3-3dd13bcb7e5e.jpg)
+---------
+Date: 2022/07/29、30(Tue) 6:00 p.m.
 
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
+Content: 
+    Today is our qualifying day. Starting from 12:00 noon, we waited for one topic after another to be updated, and completed them one by one. Until 6:00 am on the 30th, the topic finally appeared the shortest path, and we successfully After its run, all races are completed at 12:00.
+    
+日期：2022/07/29、30（星期二) 下午6:00
 
-Date: 2022/07/23(Sat) 3:18 p.m.
+成員:呂承諭、胡允瑞、陳冠璋
+
+工作內容: 
+  今天就是我們比資格賽的日子，從中午十二點開始，我們一起等著一個又一個的題目更新，並一一完成，直到30日的早上六點，題目終於出現了最短路徑，我們順利將其跑完後，12點完成所有比賽。
+  
+  ![297594435_729992864739467_256683388352098625_n](https://user-images.githubusercontent.com/107915065/183228620-70deee32-fea7-41d1-aee1-4aae9bda3c5d.jpg)
+![296299836_445734394103612_4265081472935748659_n](https://user-images.githubusercontent.com/107915065/183228626-e4b78187-8c96-43d2-b57b-7a31a7bb8988.jpg)
+----------
+Date: 2022/07/26(Tue) 6:00 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content:
    
-日期：2022/07/23（星期六) 下午3:18
+日期：2022/07/26（星期二) 下午6:00
 
 成員:呂承諭、胡允瑞、陳冠璋
 
