@@ -25,6 +25,18 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/08/06 (Sat)p.m.
+
+Member:LU-CHENG YU, CHEN-GUAN ZHANG,HU-YUN RUI
+
+
+
+日期：2022/08/06（星期六）下午 6:00
+
+成員:呂承諭、陳冠璋、胡允瑞
+
+工作內容：
+--------
 Date: 2022/08/03 (Mon)6p.m.
 
 Member:LU-CHENG YU, CHEN-GUAN ZHANG
@@ -41,14 +53,14 @@ Content: Today, we started to write a program to detect color blocks. Although t
   ![290542712_567388701703480_7720263358334119147_n](https://user-images.githubusercontent.com/110533388/182590859-cbbf8759-044e-43f5-9055-de3d9ee45c0b.jpg)
   ![296095579_1404105446757593_8276566905004156868_n](https://user-images.githubusercontent.com/110533388/182592130-6d4ec8e4-420c-4288-99c3-3dd13bcb7e5e.jpg)
 ---------
-Date: 2022/07/29、30(Tue) 6:00 p.m.
+Date: 2022/07/29、30(Tue) 9:00 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content: 
     Today is our qualifying day. Starting from 12:00 noon, we waited for one topic after another to be updated, and completed them one by one. Until 6:00 am on the 30th, the topic finally appeared the shortest path, and we successfully After its run, all races are completed at 12:00.
     
-日期：2022/07/29、30（星期二) 下午6:00
+日期：2022/07/29、30（星期二) 下午9:00
 
 成員:呂承諭、胡允瑞、陳冠璋
 
