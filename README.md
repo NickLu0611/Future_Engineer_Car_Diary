@@ -40,6 +40,7 @@ Content: Today, we started to write a program to detect color blocks. Although t
   
     ![290542712_567388701703480_7720263358334119147_n](https://user-images.githubusercontent.com/110533388/182590859-cbbf8759-044e-43f5-9055-de3d9ee45c0b.jpg)
     ![296095579_1404105446757593_8276566905004156868_n](https://user-images.githubusercontent.com/110533388/182592130-6d4ec8e4-420c-4288-99c3-3dd13bcb7e5e.jpg)
+    
 ---------
 Date: 2022/07/29、30(Tue) 6:00 p.m.
 
