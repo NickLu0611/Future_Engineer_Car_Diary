@@ -50,6 +50,7 @@ Content:
 
 工作內容：    
     今天我們使用機型拍攝照片，並對這些照片進行標記，以用於未來訓練及辨識色塊使用。
+    
 ![image](https://user-images.githubusercontent.com/107915065/183278985-2407c5df-c19a-4f75-b8e2-d009f6310f77.png)
 ![image](https://user-images.githubusercontent.com/107915065/183278993-ae6de193-9550-4c6d-b74d-8358733f844e.png)
 --------
