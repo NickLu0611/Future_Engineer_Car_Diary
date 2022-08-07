@@ -25,32 +25,31 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
-Date: 2022/08/07 (Sun)p.m.
+Date: 2022/08/06 (Sat)p.m.
 
 Member:LU-CHENG YU,HU-YUN RUI
 
-Content:
-
-日期：2022/08/07（星期日）下午 6:00
+日期：2022/08/06（星期六）下午 6:00
 
 成員:呂承諭、胡允瑞
 
 工作內容：
-
+  
 -------
 
 Date: 2022/08/06 (Sat)p.m.
 
 Member:LU-CHENG YU,HU-YUN RUI
 
-Content:
+Content: 
+    Today we use the model to take photos and mark these photos for future training and color recognition.
 
 日期：2022/08/06（星期六）下午 6:00
 
 成員:呂承諭、胡允瑞
 
 工作內容：    
-
+    今天我們使用機型拍攝照片，並對這些照片進行標記，以用於未來訓練及辨識色塊使用。
 ![image](https://user-images.githubusercontent.com/107915065/183278985-2407c5df-c19a-4f75-b8e2-d009f6310f77.png)
 ![image](https://user-images.githubusercontent.com/107915065/183278993-ae6de193-9550-4c6d-b74d-8358733f844e.png)
 --------
@@ -82,7 +81,7 @@ Content:
 成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容: 
-  今天就是我們比資格賽的日子，從中午十二點開始，我們一起等著一個又一個的題目更新，並一一完成，直到30日的早上六點，題目終於出現了最短路徑，我們順利將其跑完後，12點完成所有比賽。
+  今天便是區賽了，從中午十二點開始，我們一起等著一個又一個的題目更新，並一一完成，直到30日的早上六點，題目終於出現了最短路徑，我們順利將其跑完後，12點完成所有比賽。
   
   ![297594435_729992864739467_256683388352098625_n](https://user-images.githubusercontent.com/107915065/183228620-70deee32-fea7-41d1-aee1-4aae9bda3c5d.jpg)
 ![296070495_1329220700942159_4963944876997409240_n](https://user-images.githubusercontent.com/107915065/183229196-05a48635-a416-4a19-8c19-a3f9a83cd598.png)
@@ -90,21 +89,22 @@ Content:
 ![292582751_763720794966248_4986136529608743508_n](https://user-images.githubusercontent.com/107915065/183229306-c25e4137-dceb-45c2-944d-69b39fecb134.png)
 
 ----------
-Date: 2022/07/28(Fri) 6:00 p.m.
+Date: 2022/07/28(Thue) 6:00 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content:
-   
-日期：2022/07/28（星期五) 下午6:00
+    Tomorrow is our qualifying day, so we have a second mock match. We practice to be in a state where we can successfully complete the task at any time during the competition, so as to respond to the change of each hour's questions, and the middle of the game. emergencies that occur.
+
+日期：2022/07/28（星期四) 下午6:00
 
 成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容:
-    明天就是我們比資格賽的日子了，
+    明天就是我們比區賽的日子了，所以我們進行了第二場的模擬賽，我們練習讓自己在比賽時，隨時處於可以順利完成任務的狀態，以應應每個小時題目的變化，以及中間發生的突發情況。
 
 --------
-Date: 2022/07/28(Fri) 6:00 p.m.
+Date: 2022/07/26(Fri) 6:00 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
@@ -129,7 +129,7 @@ Content:
 成員:呂承諭、胡允瑞、陳冠璋
 
 工作內容:
-    下禮拜資格賽即將開始，為此我們進行了一場模擬比賽，按照資格賽的賽制，一個小時更新一個題目，並練習錄製成影片放置YOUTUBE，但由於時間關係，我們只模擬了三個小時，也就是三個題目，在第一個小時，因為不熟悉，所以在設備方面，都還有些手忙腳亂，但到最後一個小時，我們在接到題目後，都已越來越上手，前面的準備時間也有縮短許多。
+    下禮拜區賽即將開始，為此我們進行了一場模擬比賽，按照資格賽的賽制，一個小時更新一個題目，並練習錄製成影片放置YOUTUBE，但由於時間關係，我們只模擬了三個小時，也就是三個題目，在第一個小時，因為不熟悉，所以在設備方面，都還有些手忙腳亂，但到最後一個小時，我們在接到題目後，都已越來越上手，前面的準備時間也有縮短許多。
     
 ![294546000_769678407559491_6895206383730576321_n](https://user-images.githubusercontent.com/107915065/180672489-adad1b28-72cc-4bcb-89ed-1b3b8c0194b1.jpg)
 ![293860734_1105830400010239_2368014256874978430_n](https://user-images.githubusercontent.com/107915065/180672493-b2502357-a312-4a79-9a4c-0078c7314c83.jpg)
