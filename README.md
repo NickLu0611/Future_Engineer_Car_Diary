@@ -25,11 +25,13 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
-Date: 2022/08/06 (Sat)p.m.
+Date: 2022/08/07 (Sun)7:26p.m.
 
 Member:LU-CHENG YU,HU-YUN RUI
 
-日期：2022/08/06（星期六）下午 6:00
+Content: 
+
+日期：2022/08/07（星期日）下午7:26
 
 成員:呂承諭、胡允瑞
 
@@ -49,7 +51,7 @@ Content:
 成員:呂承諭、胡允瑞
 
 工作內容：    
-    今天我們使用機型拍攝照片，並對這些照片進行標記，以用於未來訓練及辨識色塊使用。
+    今天我們使用機型拍攝照片，並對這些照片進行顏色標記，以用於未來訓練及辨識色塊的使用。
     
 ![image](https://user-images.githubusercontent.com/107915065/183278985-2407c5df-c19a-4f75-b8e2-d009f6310f77.png)
 ![image](https://user-images.githubusercontent.com/107915065/183278993-ae6de193-9550-4c6d-b74d-8358733f844e.png)
