@@ -45,7 +45,8 @@ Member:LU-CHENG YU,HU-YUN RUI
 
 成員:呂承諭、胡允瑞
 
-工作內容：
+工作內容：    
+
 ![image](https://user-images.githubusercontent.com/107915065/183278985-2407c5df-c19a-4f75-b8e2-d009f6310f77.png)
 ![image](https://user-images.githubusercontent.com/107915065/183278993-ae6de193-9550-4c6d-b74d-8358733f844e.png)
 --------
@@ -85,13 +86,27 @@ Content:
 ![292582751_763720794966248_4986136529608743508_n](https://user-images.githubusercontent.com/107915065/183229306-c25e4137-dceb-45c2-944d-69b39fecb134.png)
 
 ----------
-Date: 2022/07/26(Tue) 6:00 p.m.
+Date: 2022/07/28(Fri) 6:00 p.m.
 
 Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
 
 Content:
    
-日期：2022/07/26（星期二) 下午6:00
+日期：2022/07/28（星期五) 下午6:00
+
+成員:呂承諭、胡允瑞、陳冠璋
+
+工作內容:
+    明天就是我們比資格賽的日子了，
+
+--------
+Date: 2022/07/28(Fri) 6:00 p.m.
+
+Member:LU-CHENG YU ,HU-YUN RUI, CHEN-GUAN ZHANG
+
+Content:
+   
+日期：2022/07/26（星期五) 下午6:00
 
 成員:呂承諭、胡允瑞、陳冠璋
 
@@ -432,33 +447,17 @@ Date: 2022/06/21 (Tue) 8:11 p.m.
 Member: LU-CHENG YU , HU-YUN RUI
 
 Content: 
+     Because when going around the field, there will be instability and hit the wall, so today we installed a gyroscope on the model, which can significantly improve the stability.
 
 日期：2022/06/21（週二）下午 8:11
 
 成員：呂承諭、胡允瑞
 
 工作內容：
+  因為在繞場時，會有不穩定而撞牆的問題，所以今天我們在機型上加裝了一個陀螺儀，能讓穩定度明顯的提升。
 
-
-
-
-
-
--------
-Date: 2022/06/20 (Mon) 5:19 p.m.
-
-Member: LU-CHENG YU , HU-YUN RUI
-
-Content: 
-
-日期：2022/06/20 （週一）下午 5:19
-
-成員：呂承諭、胡允瑞
-
-工作內容：
-
-
-
+![image](https://user-images.githubusercontent.com/107915065/183279682-a6b9c128-93b9-4a5e-a292-cd18ff4d3898.png)
+![image](https://user-images.githubusercontent.com/107915065/183279686-3a0ae0da-b2fc-433f-b59a-eefe7a88e70a.png)
 
 -------
 
