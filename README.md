@@ -37,6 +37,7 @@ Member:LU-CHENG YU, CHEN-GUAN ZHANG
 
 工作內容：
   今天我們將加速棒改成HSV，因為加速棒的判斷太慢導致機型無法快速的判斷到積木，利用HSV可以快速的判斷到積木，但是HSV在使用中會比加速棒還更容易誤判。
+  
   ![293735543_626520015390674_469291631301511990_n](https://user-images.githubusercontent.com/110533388/183648344-072d7b68-0361-469c-a002-8833d072bdee.png)
 
   
