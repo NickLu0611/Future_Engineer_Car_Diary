@@ -38,7 +38,7 @@ Content:
 
 工作內容：
     今天我們學習了如何將已經標記好的照片做訓練，並測試用鏡頭看看辨識的情形，但我們發現它依然會偵測到別的相似色物件。
-  ![image](https://user-images.githubusercontent.com/107915065/183288764-a4fcc1e2-eb14-40b5-b437-56013f49ffd0.png)
+![image](https://user-images.githubusercontent.com/107915065/183288764-a4fcc1e2-eb14-40b5-b437-56013f49ffd0.png)
 ![image](https://user-images.githubusercontent.com/107915065/183288859-0f5c1bdc-4232-4f18-b64d-d898a0b0e2cb.png)
 
 -------
@@ -109,6 +109,7 @@ Content:
 
 工作內容:
     明天就是我們比區賽的日子了，所以我們進行了第二場的模擬賽，我們練習讓自己在比賽時，隨時處於可以順利完成任務的狀態，以應應每個小時題目的變化，以及中間發生的突發情況。
+![影像](https://user-images.githubusercontent.com/74124750/183636074-44bafafe-8363-40ca-9e8e-29a1ddcff08e.jpeg)
 
 --------
 Date: 2022/07/26(Fri) 6:00 p.m.
