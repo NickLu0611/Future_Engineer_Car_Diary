@@ -25,6 +25,18 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/08/09 (Mon)6p.m.
+
+Member:LU-CHENG YU, CHEN-GUAN ZHANG
+
+
+
+日期：2022/08/09（星期三）下午 6:00
+
+成員:呂承諭、陳冠璋
+
+工作內容：
+  今天我們將加速棒改成HSV，因為加速棒的判斷太慢導致機型無法快速的判斷到積木，利用HSV可以快速的判斷到積木，但是HSV在使用中會比加速棒還更容易誤判。
 Date: 2022/08/07 (Sun)7:26p.m.
 
 Member:LU-CHENG YU,HU-YUN RUI
