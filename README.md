@@ -56,6 +56,7 @@ Content:
 
 工作內容：
     今天我們學習了如何將已經標記好的照片做訓練，並測試用鏡頭看看辨識的情形，但我們發現它依然會偵測到別的相似色物件。
+    
 ![image](https://user-images.githubusercontent.com/107915065/183288764-a4fcc1e2-eb14-40b5-b437-56013f49ffd0.png)
 ![image](https://user-images.githubusercontent.com/107915065/183288859-0f5c1bdc-4232-4f18-b64d-d898a0b0e2cb.png)
 
