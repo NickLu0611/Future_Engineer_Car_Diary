@@ -37,7 +37,7 @@ Member:LU-CHENG YU, CHEN-GUAN ZHANG
 
 工作內容：
 
-   今天我們將Google Coral Edge TPU USB加速棒改成HSV，因為Google Coral Edge TPU USB加速棒的判斷太慢導致機型無法快速的判斷到積木，所以改成了HSV這樣就可以快速的判斷到積木，但HSV在使用時會比加速棒還更容易誤判。
+   今天我們將Google Coral Edge TPU USB加速棒改成HSV，因為Google Coral Edge TPU USB加速棒的判斷太慢導致機型無法快速的判斷到積木，所以改成了HSV這樣就可以快速的判斷到積木，但HSV在使用時會比Google Coral Edge TPU USB加速棒還更容易誤判。
   
 ![293735543_626520015390674_469291631301511990_n](https://user-images.githubusercontent.com/110533388/183649719-490b59af-757a-4db3-9754-09701c5a5f31.png)
 
