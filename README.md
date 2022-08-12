@@ -25,6 +25,20 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/08/12 (Mon)6p.m.
+
+Member:LU-CHENG YU, CHEN-GUAN ZHANG
+
+
+
+日期：2022/08/09（星期三）下午 6:00
+
+成員:呂承諭、陳冠璋
+
+工作內容：
+
+  我們今天將程式撰寫完成了，可以順時針、逆時針個跑三圈，但是在這個過程中我們遇到了一些問題，像是
+
 Date: 2022/08/09 (Mon)6p.m.
 
 Member:LU-CHENG YU, CHEN-GUAN ZHANG
