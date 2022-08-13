@@ -30,15 +30,18 @@ Date: 2022/08/13 (Sat)8p.m.
 Member:LU-CHENG YU, CHEN-GUAN ZHANG,HU-YUN RUI
 
 Content: 
-
-
+    Today, we started to run various field task combinations, and designed a record table to record to confirm that each combination can be successfully completed, and we still found that in some specific combinations, there will be misjudgments, but we are still still Find a solution.
+    
 日期：2022/08/13（星期六）下午8:00
 
 成員:呂承諭、陳冠璋、胡允瑞
 
 工作內容：
+   今天我們開始跑各項場地任務組合，並設計紀錄表進行紀錄，以確認每個組合都能順利完成，而我們還是在發現某些特定組合中，發現會有誤判的情形，但我們依然還在找解決的辦法。
 ![image](https://user-images.githubusercontent.com/107915065/184474271-075b3fff-b951-44c3-9fbd-bfcd1fae3165.png)
 ![image](https://user-images.githubusercontent.com/107915065/184474297-91e81dc6-093c-4039-a6d2-b98f8b33c49a.png)
+![image](https://user-images.githubusercontent.com/107915065/184478210-51d76409-5ca0-4a01-8431-5cb58b4b3c48.png)
+
 -------
 Date: 2022/08/12 (Fri)6p.m.
 
