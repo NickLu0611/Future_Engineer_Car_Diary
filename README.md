@@ -25,27 +25,50 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
-Date: 2022/08/12 (Mon)6p.m.
+Date: 2022/08/13 (Sat)8p.m.
+
+Member:LU-CHENG YU, CHEN-GUAN ZHANG,HU-YUN RUI
+
+Content: 
+
+
+日期：2022/08/13（星期六）下午8:00
+
+成員:呂承諭、陳冠璋、胡允瑞
+
+工作內容：
+![image](htt![image](https://user-images.githubusercontent.com/107915065/184474249-414b1c13-7a4c-44f7-a62f-1b71aa1e36eb.png)
+ps://user-images.githubusercontent.com/107915065/184474232-779e5750-83ba-4971-9153-6ff14bbca0b7.png)
+
+-------
+Date: 2022/08/12 (Fri)6p.m.
 
 Member:LU-CHENG YU, CHEN-GUAN ZHANG
 
+Content: 
+    We have finished writing the program today, we can run three laps clockwise and counterclockwise each and can quickly dodge the blocks.
 
 
-日期：2022/08/09（星期三）下午 6:00
+日期：2022/08/12（星期五）下午 6:00
 
 成員:呂承諭、陳冠璋
 
 工作內容：
 
   我們今天將程式撰寫完成了，可以順時針、逆時針各跑三圈並且可以迅速的閃躲積木。
+  
+--------
 
-Date: 2022/08/09 (Mon)6p.m.
+Date: 2022/08/09 (Tue)6p.m.
 
 Member:LU-CHENG YU, CHEN-GUAN ZHANG
 
+Content: 
+
+Today we changed the Google Coral Edge TPU USB accelerator to HSV. Because the judgment of the Google Coral Edge TPU USB accelerator is too slow, the model cannot quickly determine the building blocks, so it is changed to HSV so that the building blocks can be quickly determined. But HSV is more prone to misjudgment than the Google Coral Edge TPU USB accelerator.
 
 
-日期：2022/08/09（星期三）下午 6:00
+日期：2022/08/09（星期二）下午 6:00
 
 成員:呂承諭、陳冠璋
 
@@ -55,7 +78,7 @@ Member:LU-CHENG YU, CHEN-GUAN ZHANG
   
 ![293735543_626520015390674_469291631301511990_n](https://user-images.githubusercontent.com/110533388/183649719-490b59af-757a-4db3-9754-09701c5a5f31.png)
 
-
+--------
   
 Date: 2022/08/07 (Sun)7:26p.m.
 
