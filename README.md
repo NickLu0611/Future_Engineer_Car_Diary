@@ -37,9 +37,8 @@ Content:
 成員:呂承諭、陳冠璋、胡允瑞
 
 工作內容：
-![image](htt![image](https://user-images.githubusercontent.com/107915065/184474249-414b1c13-7a4c-44f7-a62f-1b71aa1e36eb.png)
-ps://user-images.githubusercontent.com/107915065/184474232-779e5750-83ba-4971-9153-6ff14bbca0b7.png)
-
+![image](https://user-images.githubusercontent.com/107915065/184474271-075b3fff-b951-44c3-9fbd-bfcd1fae3165.png)
+![image](https://user-images.githubusercontent.com/107915065/184474297-91e81dc6-093c-4039-a6d2-b98f8b33c49a.png)
 -------
 Date: 2022/08/12 (Fri)6p.m.
 
