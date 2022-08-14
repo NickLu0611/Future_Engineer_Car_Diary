@@ -25,6 +25,20 @@ This is WRO2022 Future Engineers comtetion's Note.
 
   
 # Diary
+Date: 2022/08/14 (Sun)2:34p.m.
+
+Member:LU-CHENG YU, CHEN-GUAN ZHANG,HU-YUN RUI
+
+Content:
+
+日期：2022/08/14（星日）下午2:34
+
+成員:呂承諭、陳冠璋、胡允瑞
+
+工作內容：
+
+-------
+
 Date: 2022/08/13 (Sat)8p.m.
 
 Member:LU-CHENG YU, CHEN-GUAN ZHANG,HU-YUN RUI
