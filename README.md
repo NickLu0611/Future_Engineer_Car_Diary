@@ -31,7 +31,7 @@ Member:LU-CHENG YU, CHEN-GUAN ZHANG,HU-YUN RUI
 
 Content:
 
-日期：2022/08/14（星日）下午2:34
+日期：2022/08/14（星期日）下午2:34
 
 成員:呂承諭、陳冠璋、胡允瑞
 
